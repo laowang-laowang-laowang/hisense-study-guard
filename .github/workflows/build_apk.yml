@@ -3,7 +3,7 @@ name: 一键云端打包生成电视端 APK
 on:
   push:
     branches: [ "**" ]
-  workflow_dispatch: # 允许在 GitHub 网页上直接点击按钮手动触发构建
+  workflow_dispatch:
 
 jobs:
   build-apk:
@@ -20,18 +20,15 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
 
-      - name: 配置 Android SDK 环境
-        uses: android-actions/setup-android@v3
-
       - name: 配置 Gradle 8.4 构建工具
         uses: gradle/actions/setup-gradle@v3
         with:
           gradle-version: '8.4'
 
-      - name: 执行一键打包命令 (assembleDebug)
+      - name: 执行打包编译 (assembleDebug)
         run: gradle assembleDebug --stacktrace
 
-      - name: 收集并发布安装包 (上传至网页直接下载)
+      - name: 上传 APK 安装包至网页下载
         uses: actions/upload-artifact@v4
         with:
           name: Hisense-StudyGuard-TV-v1.0.apk
