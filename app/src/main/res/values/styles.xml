@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 基础 TV 黑色调主题 -->
+    <style name="AppTheme" parent="android:Theme.Holo.NoActionBar">
+        <item name="android:windowBackground">#121820</item>
+    </style>
+
+    <!-- 弹窗全屏覆盖主题：全屏、无状态栏、透明背景、支持置顶 -->
+    <style name="Theme.TransparentDialog" parent="android:Theme.Translucent.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+    </style>
+</resources>

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#121820"
+    android:orientation="horizontal"
+    android:padding="40dp">
+
+    <!-- 左侧：基础控制区 -->
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="#1B2430"
+        android:orientation="vertical"
+        android:padding="32dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="⚙️ 电视守护健康设置"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="适用于海信 65E3G-PRO 电视端"
+            android:textColor="#8899A6"
+            android:textSize="16sp" />
+
+        <!-- 播放累加时间 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="28dp"
+            android:text="1. 观看累加提醒时间："
+            android:textColor="#E1E8ED"
+            android:textSize="20sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_play_minus"
+                android:layout_width="60dp"
+                android:layout_height="50dp"
+                android:focusable="true"
+                android:text="-"
+                android:textSize="22sp" />
+
+            <TextView
+                android:id="@+id/tv_play_minutes"
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="20 分钟"
+                android:textColor="#00E676"
+                android:textSize="22sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/btn_play_plus"
+                android:layout_width="60dp"
+                android:layout_height="50dp"
+                android:focusable="true"
+                android:text="+"
+                android:textSize="22sp" />
+        </LinearLayout>
+
+        <!-- 答错增加时间 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="2. 回答错误增加累加时间："
+            android:textColor="#E1E8ED"
+            android:textSize="20sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_error_minus"
+                android:layout_width="60dp"
+                android:layout_height="50dp"
+                android:focusable="true"
+                android:text="-"
+                android:textSize="22sp" />
+
+            <TextView
+                android:id="@+id/tv_error_minutes"
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="5 分钟"
+                android:textColor="#FF5252"
+                android:textSize="22sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/btn_error_plus"
+                android:layout_width="60dp"
+                android:layout_height="50dp"
+                android:focusable="true"
+                android:text="+"
+                android:textSize="22sp" />
+        </LinearLayout>
+
+        <!-- 核心功能按钮区 -->
+        <Button
+            android:id="@+id/btn_import_usb"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:layout_marginTop="32dp"
+            android:background="#2E7D32"
+            android:focusable="true"
+            android:text="💾 【插上 U 盘，从 U 盘一键更新题库】"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_start_guard"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="16dp"
+            android:background="#1565C0"
+            android:focusable="true"
+            android:text="▶️ 启动 / 重启电视守护服务"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <!-- 右侧：5 大题库管理区 -->
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginStart="24dp"
+        android:layout_weight="1"
+        android:background="#1B2430"
+        android:orientation="vertical"
+        android:padding="32dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="📚 5大题库分类与配额"
+            android:textColor="#FFFFFF"
+            android:textSize="26sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="勾选启用题库，未勾选的将不会在弹窗中出现"
+            android:textColor="#8899A6"
+            android:textSize="16sp" />
+
+        <!-- 1. 古诗词 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <CheckBox
+                android:id="@+id/cb_poetry"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                android:text="📜 古诗词题库（国风水墨主题）"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/tv_poetry_count"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="end"
+                android:text="当前题量：0"
+                android:textColor="#FFD54F"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <!-- 2. 简单数学 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <CheckBox
+                android:id="@+id/cb_math"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                android:text="📐 简单数学题库（智慧黑板主题）"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/tv_math_count"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="end"
+                android:text="当前题量：0"
+                android:textColor="#00E676"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <!-- 3. 简单英语 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <CheckBox
+                android:id="@+id/cb_english"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                android:text="🔤 简单英语题库（活力波普主题）"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/tv_english_count"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="end"
+                android:text="当前题量：0"
+                android:textColor="#FF4081"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <!-- 4. 生活百科 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <CheckBox
+                android:id="@+id/cb_encyclopedia"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                android:text="💡 生活百科题库（温暖探索主题）"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/tv_encyclopedia_count"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="end"
+                android:text="当前题量：0"
+                android:textColor="#00BCD4"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <!-- 5. 地理自然 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <CheckBox
+                android:id="@+id/cb_geography"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                android:text="🌍 地理自然题库（浩瀚星球主题）"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/tv_geography_count"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="end"
+                android:text="当前题量：0"
+                android:textColor="#3A86FF"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="💡 提示：将 study_questions.csv 存入 U 盘根目录插在电视上，点击左侧按钮即可秒更新！"
+            android:textColor="#8899A6"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+</LinearLayout>

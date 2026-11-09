@@ -1,0 +1,6002 @@
+[
+  {
+    "id": "q_0001",
+    "category": "POETRY",
+    "question": "“床前明月光，疑是地上霜”的作者是哪位诗人？",
+    "options": [
+      "A. 杜甫",
+      "B. 李白",
+      "C. 白居易",
+      "D. 王维"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0002",
+    "category": "POETRY",
+    "question": "“春眠不觉晓，处处闻啼鸟”出自孟浩然的哪首诗？",
+    "options": [
+      "A. 《春晓》",
+      "B. 《村居》",
+      "C. 《咏柳》",
+      "D. 《小池》"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0003",
+    "category": "POETRY",
+    "question": "“谁知盘中餐，粒粒皆辛苦”表达的是什么主题？",
+    "options": [
+      "A. 赞美风景",
+      "B. 珍惜粮食",
+      "C. 思念家乡",
+      "D. 歌颂友谊"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0004",
+    "category": "POETRY",
+    "question": "“鹅，鹅，鹅，曲项向天歌”是哪位诗人在七岁时写下的？",
+    "options": [
+      "A. 骆宾王",
+      "B. 王勃",
+      "C. 贺知章",
+      "D. 贾岛"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0005",
+    "category": "POETRY",
+    "question": "“不知细叶谁裁出，二月春风似剪刀”赞美的是哪种植物？",
+    "options": [
+      "A. 桃花",
+      "B. 柳树",
+      "C. 荷花",
+      "D. 松树"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0006",
+    "category": "POETRY",
+    "question": "“千门万户曈曈日，总把新桃换旧符”描写的是哪个传统节日？",
+    "options": [
+      "A. 中秋节",
+      "B. 端午节",
+      "C. 春节",
+      "D. 重阳节"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0007",
+    "category": "POETRY",
+    "question": "“独在异乡为异客，每逢佳节倍思亲”中的“佳节”指什么节？",
+    "options": [
+      "A. 重阳节",
+      "B. 清明节",
+      "C. 元宵节",
+      "D. 七夕节"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0008",
+    "category": "POETRY",
+    "question": "“飞流直下三千尺，疑是银河落九天”描写的是哪座名山的瀑布？",
+    "options": [
+      "A. 泰山",
+      "B. 黄山",
+      "C. 庐山",
+      "D. 华山"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0009",
+    "category": "POETRY",
+    "question": "“接天莲叶无穷碧，映日荷花别样红”描绘的是哪个湖泊的景色？",
+    "options": [
+      "A. 洞庭湖",
+      "B. 鄱阳湖",
+      "C. 杭州西湖",
+      "D. 太湖"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0010",
+    "category": "POETRY",
+    "question": "“小荷才露尖尖角，早有蜻蜓立上头”出自杨万里的哪首诗？",
+    "options": [
+      "A. 《小池》",
+      "B. 《池上》",
+      "C. 《所见》",
+      "D. 《晓出净慈寺》"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0011",
+    "category": "POETRY",
+    "question": "“借问酒家何处有，牧童遥指杏花村”描写的是哪个节气或节日？",
+    "options": [
+      "A. 立春",
+      "B. 清明节",
+      "C. 端午节",
+      "D. 中秋节"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0012",
+    "category": "POETRY",
+    "question": "“草长莺飞二月天，拂堤杨柳醉春烟”描写的季节是？",
+    "options": [
+      "A. 初春",
+      "B. 盛夏",
+      "C. 深秋",
+      "D. 寒冬"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0013",
+    "category": "POETRY",
+    "question": "“远上寒山石径斜，白云生处有人家”出自杜牧的哪首诗？",
+    "options": [
+      "A. 《江南春》",
+      "B. 《山行》",
+      "C. 《清明》",
+      "D. 《秋夕》"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0014",
+    "category": "POETRY",
+    "question": "“意欲捕鸣蝉，忽然闭口立”中，牧童想要捉的是什么昆虫？",
+    "options": [
+      "A. 蟋蟀",
+      "B. 蝉（知了）",
+      "C. 螳螂",
+      "D. 蝴蝶"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0015",
+    "category": "POETRY",
+    "question": "“解落三秋叶，能开二月花”描写的自然现象是？",
+    "options": [
+      "A. 雨",
+      "B. 风",
+      "C. 雪",
+      "D. 雷"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0016",
+    "category": "POETRY",
+    "question": "“生当作人杰，死亦为鬼雄”是哪位著名宋代女词人写的？",
+    "options": [
+      "A. 李清照",
+      "B. 朱淑真",
+      "C. 薛涛",
+      "D. 鱼玄机"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0017",
+    "category": "POETRY",
+    "question": "“不识庐山真面目，只缘身在此山中”告诉我们什么哲理？",
+    "options": [
+      "A. 看景要离近",
+      "B. 局限在局部看不清全面",
+      "C. 庐山云雾太浓",
+      "D. 爬山很累"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0018",
+    "category": "POETRY",
+    "question": "“小时不识月，呼作白玉盘”中，诗人把月亮比作了什么？",
+    "options": [
+      "A. 明镜",
+      "B. 白玉盘",
+      "C. 弯弓",
+      "D. 珍珠"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0019",
+    "category": "POETRY",
+    "question": "“天门中断楚江开，碧水东流至此回”中的“楚江”指哪条江？",
+    "options": [
+      "A. 黄河",
+      "B. 长江",
+      "C. 珠江",
+      "D. 淮河"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0020",
+    "category": "POETRY",
+    "question": "“会当凌绝顶，一览众山小”是杜甫登上哪座山时写的？",
+    "options": [
+      "A. 华山",
+      "B. 泰山",
+      "C. 恒山",
+      "D. 衡山"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0021",
+    "category": "POETRY",
+    "question": "“野火烧不尽，春风吹又生”赞美的是哪种植物顽强的生命力？",
+    "options": [
+      "A. 野草",
+      "B. 竹子",
+      "C. 松树",
+      "D. 梅花"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0022",
+    "category": "POETRY",
+    "question": "“随风潜入夜，润物细无声”描写的春天的什么现象？",
+    "options": [
+      "A. 春风",
+      "B. 春雨",
+      "C. 春雷",
+      "D. 春雪"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0023",
+    "category": "POETRY",
+    "question": "“桃花潭水深千尺，不及汪伦送我情”运用了什么修辞手法？",
+    "options": [
+      "A. 夸张",
+      "B. 拟人",
+      "C. 借代",
+      "D. 排比"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0024",
+    "category": "POETRY",
+    "question": "李白被后人誉为什么？",
+    "options": [
+      "A. 诗仙",
+      "B. 诗圣",
+      "C. 诗佛",
+      "D. 诗鬼"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0025",
+    "category": "POETRY",
+    "question": "杜甫被后人尊称为什么？",
+    "options": [
+      "A. 诗仙",
+      "B. 诗圣",
+      "C. 诗豪",
+      "D. 诗魔"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0026",
+    "category": "POETRY",
+    "question": "白居易被誉为什么？",
+    "options": [
+      "A. 诗魔",
+      "B. 诗杰",
+      "C. 诗狂",
+      "D. 诗魂"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0027",
+    "category": "POETRY",
+    "question": "王维诗画双绝，苏轼评价他的作品是？",
+    "options": [
+      "A. 诗中有画，画中有诗",
+      "B. 豪放磅礴",
+      "C. 清新脱俗",
+      "D. 沉郁顿挫"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0028",
+    "category": "POETRY",
+    "question": "“春种一粒粟，秋收万颗子”中的“粟”通常指什么农作物？",
+    "options": [
+      "A. 谷子（小米）",
+      "B. 大米",
+      "C. 小麦",
+      "D. 玉米"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0029",
+    "category": "POETRY",
+    "question": "“欲穷千里目，更上一层楼”出自哪首唐诗？",
+    "options": [
+      "A. 《登鹳雀楼》",
+      "B. 《黄鹤楼》",
+      "C. 《岳阳楼记》",
+      "D. 《望天门山》"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0030",
+    "category": "POETRY",
+    "question": "“黄河远上白云间，一片孤城万仞山”描写的是哪座著名关隘？",
+    "options": [
+      "A. 玉门关",
+      "B. 山海关",
+      "C. 嘉峪关",
+      "D. 剑门关"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0031",
+    "category": "POETRY",
+    "question": "“两岸猿声啼不住，轻舟已过万重山”出自李白的哪首名篇？",
+    "options": [
+      "A. 《早发白帝城》",
+      "B. 《望庐山瀑布》",
+      "C. 《蜀道难》",
+      "D. 《将进酒》"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0032",
+    "category": "POETRY",
+    "question": "“白日依山尽，黄河入海流”的作者是谁？",
+    "options": [
+      "A. 王之涣",
+      "B. 王昌龄",
+      "C. 高适",
+      "D. 岑参"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0033",
+    "category": "POETRY",
+    "question": "“黑发不知勤学早，白首方悔读书迟”出自哪位书法名家的诗作？",
+    "options": [
+      "A. 颜真卿",
+      "B. 柳公权",
+      "C. 欧阳询",
+      "D. 赵孟頫"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0034",
+    "category": "POETRY",
+    "question": "“少小离家老大回，乡音无改鬓毛衰”中“鬓毛衰”的“衰”意指？",
+    "options": [
+      "A. 稀疏脱落",
+      "B. 变黑",
+      "C. 变长",
+      "D. 凌乱"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0035",
+    "category": "POETRY",
+    "question": "“慈母手中线，游子身上衣”出自孟郊的哪首名篇？",
+    "options": [
+      "A. 《游子吟》",
+      "B. 《别董大》",
+      "C. 《送元二使安西》",
+      "D. 《赋得古原草送别》"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0036",
+    "category": "POETRY",
+    "question": "“爆竹声中一岁除，春风送暖入屠苏”中的“屠苏”指什么？",
+    "options": [
+      "A. 屠苏酒",
+      "B. 屠苏花",
+      "C. 房子名字",
+      "D. 衣服"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0037",
+    "category": "POETRY",
+    "question": "“碧玉妆成一树高，万条垂下绿丝绦”出自哪位诗人的笔下？",
+    "options": [
+      "A. 贺知章",
+      "B. 孟浩然",
+      "C. 杜牧",
+      "D. 贾岛"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0038",
+    "category": "POETRY",
+    "question": "“儿童急走追黄蝶，飞入菜花无处寻”中“急走”的意思是？",
+    "options": [
+      "A. 快跑",
+      "B. 慢慢走",
+      "C. 散步",
+      "D. 离开"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0039",
+    "category": "POETRY",
+    "question": "“空山不见人，但闻人语响”出自王维的哪首诗？",
+    "options": [
+      "A. 《鹿柴》",
+      "B. 《竹里馆》",
+      "C. 《山居秋暝》",
+      "D. 《相思》"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0040",
+    "category": "POETRY",
+    "question": "“红豆生南国，春来发几枝”表达的是什么情谊？",
+    "options": [
+      "A. 相思友谊",
+      "B. 赞美春天",
+      "C. 游山玩水",
+      "D. 报效祖国"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0041",
+    "category": "POETRY",
+    "question": "“天苍苍，野茫茫，风吹草低见牛羊”是哪个朝代的民歌？",
+    "options": [
+      "A. 北朝民歌",
+      "B. 唐朝民歌",
+      "C. 宋朝民歌",
+      "D. 汉朝民歌"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0042",
+    "category": "POETRY",
+    "question": "“采菊东篱下，悠然见南山”的作者是哪位田园诗人？",
+    "options": [
+      "A. 陶渊明",
+      "B. 谢灵运",
+      "C. 孟浩然",
+      "D. 王维"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0043",
+    "category": "POETRY",
+    "question": "“纸上得来终觉浅，绝知此事要躬行”说明了什么重要道理？",
+    "options": [
+      "A. 实践的重要性",
+      "B. 书本不重要",
+      "C. 写字要用力",
+      "D. 要多买书"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0044",
+    "category": "POETRY",
+    "question": "“江南好，风景旧曾谙”出自白居易的词作《忆江南》，这里“谙”意思是？",
+    "options": [
+      "A. 熟悉",
+      "B. 陌生",
+      "C. 喜欢",
+      "D. 遗忘"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0045",
+    "category": "POETRY",
+    "question": "“清明时节雨纷纷，路上行人欲断魂”的作者是？",
+    "options": [
+      "A. 杜牧",
+      "B. 杜甫",
+      "C. 李商隐",
+      "D. 陆游"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0046",
+    "category": "POETRY",
+    "question": "“落霞与孤鹜齐飞，秋水共长天一色”出自王勃的哪篇千古名篇？",
+    "options": [
+      "A. 《滕王阁序》",
+      "B. 《岳阳楼记》",
+      "C. 《兰亭集序》",
+      "D. 《阿房宫赋》"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0047",
+    "category": "POETRY",
+    "question": "“月落乌啼霜满天，江枫渔火对愁眠”描写的是哪座寺庙外的景色？",
+    "options": [
+      "A. 寒山寺",
+      "B. 少林寺",
+      "C. 灵隐寺",
+      "D. 大雁塔"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0048",
+    "category": "POETRY",
+    "question": "“劝君更尽一杯酒，西出阳关无故人”中的“阳关”在今天的哪个省份？",
+    "options": [
+      "A. 甘肃",
+      "B. 陕西",
+      "C. 新疆",
+      "D. 四川"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0049",
+    "category": "POETRY",
+    "question": "“莫愁前路无知己，天下谁人不识君”是高适写给谁的送别诗？",
+    "options": [
+      "A. 董大",
+      "B. 汪伦",
+      "C. 孟浩然",
+      "D. 元二"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0050",
+    "category": "POETRY",
+    "question": "“洛阳亲友如相问，一片冰心在玉壶”中“冰心玉壶”象征什么？",
+    "options": [
+      "A. 品行高洁纯真",
+      "B. 喜欢喝茶",
+      "C. 天气寒冷",
+      "D. 制作玉器"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0051",
+    "category": "POETRY",
+    "question": "“停车坐爱枫林晚，霜叶红于二月花”中的“坐”意思是？",
+    "options": [
+      "A. 因为",
+      "B. 坐下",
+      "C. 乘车",
+      "D. 停留"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0052",
+    "category": "POETRY",
+    "question": "“粉骨碎身浑不怕，要留清白在人间”赞颂的是什么事物？",
+    "options": [
+      "A. 石灰",
+      "B. 竹子",
+      "C. 菊花",
+      "D. 梅花"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0053",
+    "category": "POETRY",
+    "question": "“千磨万击还坚劲，任尔东西南北风”赞美的是哪种植物？",
+    "options": [
+      "A. 竹石（竹子）",
+      "B. 松柏",
+      "C. 仙人掌",
+      "D. 牡丹"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0054",
+    "category": "POETRY",
+    "question": "“荷尽已无擎雨盖，菊残犹有傲霜枝”出自苏轼描写哪个季节的诗？",
+    "options": [
+      "A. 初冬",
+      "B. 盛夏",
+      "C. 早春",
+      "D. 晚秋"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0055",
+    "category": "POETRY",
+    "question": "“欲把西湖比西子，淡妆浓抹总相宜”中的“西子”指我国古代哪位美女？",
+    "options": [
+      "A. 西施",
+      "B. 王昭君",
+      "C. 貂蝉",
+      "D. 杨贵妃"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0056",
+    "category": "POETRY",
+    "question": "“等闲识得东风面，万紫千红总是春”的作者朱熹是哪代理学家？",
+    "options": [
+      "A. 宋代",
+      "B. 唐代",
+      "C. 明代",
+      "D. 汉代"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0057",
+    "category": "POETRY",
+    "question": "“居高声自远，非是藉秋风”赞美的是哪种昆虫高洁的品格？",
+    "options": [
+      "A. 蝉",
+      "B. 蜜蜂",
+      "C. 蜻蜓",
+      "D. 萤火虫"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0058",
+    "category": "POETRY",
+    "question": "“采得百花成蜜后，为谁辛苦为谁甜”赞颂的是什么动物？",
+    "options": [
+      "A. 蜜蜂",
+      "B. 蚕",
+      "C. 蚂蚁",
+      "D. 燕子"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0059",
+    "category": "POETRY",
+    "question": "“春风得意马蹄疾，一日看尽长安花”描绘的是什么场景？",
+    "options": [
+      "A. 进士及第（考中）",
+      "B. 结婚喜庆",
+      "C. 游山玩水",
+      "D. 战胜凯旋"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0060",
+    "category": "POETRY",
+    "question": "“烽火连三月，家书抵万金”反映了作者杜甫在什么动乱时期的遭遇？",
+    "options": [
+      "A. 安史之乱",
+      "B. 黄巾起义",
+      "C. 靖康之变",
+      "D. 八王之乱"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0061",
+    "category": "POETRY",
+    "question": "“忽如一夜春风来，千树万树梨花开”这里的“梨花”实际上指什么？",
+    "options": [
+      "A. 雪花",
+      "B. 真正的梨花",
+      "C. 柳絮",
+      "D. 白云"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0062",
+    "category": "POETRY",
+    "question": "“东边日出西边雨，道是无晴却有晴”中的“晴”谐音双关指哪个字？",
+    "options": [
+      "A. 情（感情）",
+      "B. 晴（晴朗）",
+      "C. 清（清澈）",
+      "D. 青（青草）"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0063",
+    "category": "POETRY",
+    "question": "“身无彩凤双飞翼，心有灵犀一点通”的作者是哪位诗人？",
+    "options": [
+      "A. 李商隐",
+      "B. 杜牧",
+      "C. 贺知章",
+      "D. 孟郊"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0064",
+    "category": "POETRY",
+    "question": "李商隐与哪位诗人并称为“小李杜”？",
+    "options": [
+      "A. 杜牧",
+      "B. 杜甫",
+      "C. 杜荀鹤",
+      "D. 杜审言"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0065",
+    "category": "POETRY",
+    "question": "“三十功名尘与土，八千里路云和月”出自岳飞的哪首词？",
+    "options": [
+      "A. 《满江红》",
+      "B. 《水调歌头》",
+      "C. 《破阵子》",
+      "D. 《念奴娇》"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0066",
+    "category": "POETRY",
+    "question": "“人生自古谁无死？留取丹心照汗青”的作者文天祥是哪个朝代的民族英雄？",
+    "options": [
+      "A. 南宋",
+      "B. 唐代",
+      "C. 明代",
+      "D. 元代"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0067",
+    "category": "POETRY",
+    "question": "“出师未捷身先死，长使英雄泪满襟”咏叹的是三国时期的哪位历史人物？",
+    "options": [
+      "A. 诸葛亮",
+      "B. 关羽",
+      "C. 刘备",
+      "D. 曹操"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0068",
+    "category": "POETRY",
+    "question": "“但使龙城飞将在，不教胡马度阴山”中的“飞将”常指汉朝哪位名将？",
+    "options": [
+      "A. 李广",
+      "B. 卫青",
+      "C. 霍去病",
+      "D. 韩信"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0069",
+    "category": "POETRY",
+    "question": "“绿树村边合，青山郭外斜”出自孟浩然的哪首名诗？",
+    "options": [
+      "A. 《过故人庄》",
+      "B. 《宿建德江》",
+      "C. 《望洞庭湖》",
+      "D. 《春晓》"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0070",
+    "category": "POETRY",
+    "question": "“移舟泊烟渚，日暮客愁新”出自孟浩然的哪首羁旅诗？",
+    "options": [
+      "A. 《宿建德江》",
+      "B. 《春晓》",
+      "C. 《送元二使安西》",
+      "D. 《过故人庄》"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0071",
+    "category": "POETRY",
+    "question": "“大漠孤烟直，长河落日圆”描绘的是什么壮丽的地理景观？",
+    "options": [
+      "A. 西北塞外大漠",
+      "B. 江南水乡",
+      "C. 东南海滨",
+      "D. 华北平原"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0072",
+    "category": "POETRY",
+    "question": "“柴门闻犬吠，风雪夜归人”描写的出行场景天气是？",
+    "options": [
+      "A. 风雪严冬夜",
+      "B. 盛夏暴雨",
+      "C. 秋风落叶",
+      "D. 初春暖阳"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0073",
+    "category": "POETRY",
+    "question": "“姑苏城外寒山寺，夜半钟声到客船”中的“姑苏”是现在哪座城市的古称？",
+    "options": [
+      "A. 苏州",
+      "B. 杭州",
+      "C. 南京",
+      "D. 无锡"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0074",
+    "category": "POETRY",
+    "question": "“江南春”中“千里莺啼绿映红，水村山郭酒旗风”描写的是哪个季节？",
+    "options": [
+      "A. 春天",
+      "B. 夏天",
+      "C. 秋天",
+      "D. 冬天"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0075",
+    "category": "POETRY",
+    "question": "“胜日寻芳泗水滨，无边光景一时新”中的“胜日”是指？",
+    "options": [
+      "A. 好天气、晴朗的好日子",
+      "B. 节日",
+      "C. 胜利的日子",
+      "D. 生日"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0076",
+    "category": "POETRY",
+    "question": "“遥知不是雪，为有暗香来”赞美的是哪种傲雪盛开的花？",
+    "options": [
+      "A. 梅花",
+      "B. 水仙",
+      "C. 山茶花",
+      "D. 迎春花"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0077",
+    "category": "POETRY",
+    "question": "“春色满园关不住，一枝红杏出墙来”出自叶绍翁的哪首诗？",
+    "options": [
+      "A. 《游园不值》",
+      "B. 《惠崇春江晚景》",
+      "C. 《绝句》",
+      "D. 《小池》"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0078",
+    "category": "POETRY",
+    "question": "“竹外桃花三两枝，春江水暖鸭先知”出自苏轼为哪位僧人画作所题的诗？",
+    "options": [
+      "A. 惠崇",
+      "B. 怀素",
+      "C. 玄奘",
+      "D. 鉴真"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0079",
+    "category": "POETRY",
+    "question": "“蒌蒿满地芦芽短，正是河豚欲上时”描绘的是哪个季节的美味与生机？",
+    "options": [
+      "A. 早春",
+      "B. 深秋",
+      "C. 寒冬",
+      "D. 盛夏"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0080",
+    "category": "POETRY",
+    "question": "“迟日江山丽，春风花草香”中“迟日”通常指什么意思？",
+    "options": [
+      "A. 春季太阳落山渐晚（春日）",
+      "B. 迟到的日子",
+      "C. 阴天",
+      "D. 傍晚"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0081",
+    "category": "POETRY",
+    "question": "“泥融飞燕子，沙暖睡鸳鸯”是哪位诗人在成都草堂所写的名句？",
+    "options": [
+      "A. 杜甫",
+      "B. 李白",
+      "C. 高适",
+      "D. 王维"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0082",
+    "category": "POETRY",
+    "question": "“两个黄鹂鸣翠柳，一行白鹭上青天”全诗一共出现了几种颜色？",
+    "options": [
+      "A. 四种（黄、翠、白、青）",
+      "B. 两种",
+      "C. 三种",
+      "D. 五种"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0083",
+    "category": "POETRY",
+    "question": "“窗含西岭千秋雪，门泊东吴万里船”中的“西岭”指成都附近的哪座雪山？",
+    "options": [
+      "A. 西岭雪山",
+      "B. 峨眉山",
+      "C. 玉龙雪山",
+      "D. 贡嘎雪山"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0084",
+    "category": "POETRY",
+    "question": "“童孙未解供耕织，也傍桑阴学种瓜”生动表现了什么？",
+    "options": [
+      "A. 儿童天真可爱热爱劳动",
+      "B. 农民生活痛苦",
+      "C. 桑树遮凉",
+      "D. 织布辛苦"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0085",
+    "category": "POETRY",
+    "question": "“昼出耘田夜绩麻，村庄儿女各当家”中“绩麻”指的是什么劳作？",
+    "options": [
+      "A. 把麻搓成线",
+      "B. 种植麻类作物",
+      "C. 收割农作物",
+      "D. 炒麻子吃"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0086",
+    "category": "POETRY",
+    "question": "“梅子金黄杏子肥，麦花雪白菜花稀”描写的是江南哪个时节的景致？",
+    "options": [
+      "A. 初夏",
+      "B. 仲秋",
+      "C. 隆冬",
+      "D. 早春"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0087",
+    "category": "POETRY",
+    "question": "“九曲黄河万里沙，浪淘风簸自天涯”出自刘禹锡的哪首组诗？",
+    "options": [
+      "A. 《浪淘沙》",
+      "B. 《陋室铭》",
+      "C. 《竹枝词》",
+      "D. 《乌衣巷》"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0088",
+    "category": "POETRY",
+    "question": "“沉舟侧畔千帆过，病树前头万木春”告诉我们的生活态度是？",
+    "options": [
+      "A. 新生事物必将蓬勃发展，要充满乐观",
+      "B. 划船要小心",
+      "C. 树木容易生病",
+      "D. 万事顺其自然不要努力"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0089",
+    "category": "POETRY",
+    "question": "“旧时王谢堂前燕，飞入寻常百姓家”中的“王谢”指东晋时期的哪两个显赫家族？",
+    "options": [
+      "A. 王导与谢安家族",
+      "B. 王羲之与谢灵运",
+      "C. 王勃与谢朓",
+      "D. 王安石与谢枋得"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0090",
+    "category": "POETRY",
+    "question": "“朱雀桥边野草花，乌衣巷口夕阳斜”描写的古都是今天的哪座城市？",
+    "options": [
+      "A. 南京",
+      "B. 西安",
+      "C. 洛阳",
+      "D. 北京"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0091",
+    "category": "POETRY",
+    "question": "“少小离家老大回，乡音无改鬓毛衰”全诗抒发了什么深厚感情？",
+    "options": [
+      "A. 久别故乡的沧桑与乡愁",
+      "B. 离家的喜悦",
+      "C. 衰老的绝望",
+      "D. 对功名的渴望"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0092",
+    "category": "POETRY",
+    "question": "“劝君莫惜金缕衣，劝君惜取少年时”告诫我们要？",
+    "options": [
+      "A. 珍惜青春年华勤奋向上",
+      "B. 爱护漂亮衣服",
+      "C. 多赚钱买金子",
+      "D. 及时享乐"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0093",
+    "category": "POETRY",
+    "question": "“花开堪折直须折，莫待无花空折枝”寓意是要？",
+    "options": [
+      "A. 珍惜机遇，莫负大好时光",
+      "B. 乱折花木",
+      "C. 鲜花插瓶",
+      "D. 采摘果实"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0094",
+    "category": "POETRY",
+    "question": "“天生我材必有用，千金散尽还复来”出自李白的哪首豪放诗篇？",
+    "options": [
+      "A. 《将进酒》",
+      "B. 《蜀道难》",
+      "C. 《行路难》",
+      "D. 《梦游天姥吟留别》"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0095",
+    "category": "POETRY",
+    "question": "“长风破浪会有时，直挂云帆济沧海”表达了诗人怎样的精神面貌？",
+    "options": [
+      "A. 充满自信与对理想的执着追求",
+      "B. 想去大海上划船",
+      "C. 畏惧风浪退缩",
+      "D. 叹息仕途艰难归隐山林"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0096",
+    "category": "POETRY",
+    "question": "“咬定青山不放松，立根原在破岩中”的作者郑燮（郑板桥）是哪里的名士？",
+    "options": [
+      "A. 扬州八怪之一",
+      "B. 江南四大才子之一",
+      "C. 唐宋八大家之一",
+      "D. 建安七子之一"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0097",
+    "category": "POETRY",
+    "question": "“随风潜入夜，润物细无声”出自杜甫的哪首经典诗作？",
+    "options": [
+      "A. 《春夜喜雨》",
+      "B. 《绝句》",
+      "C. 《望岳》",
+      "D. 《茅屋为秋风所破歌》"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0098",
+    "category": "POETRY",
+    "question": "“晓看红湿处，花重锦官城”中的“锦官城”是哪座城市的别称？",
+    "options": [
+      "A. 成都",
+      "B. 重庆",
+      "C. 西安",
+      "D. 杭州"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0099",
+    "category": "POETRY",
+    "question": "“姑苏城外寒山寺，夜半钟声到客船”出自张继的哪首千古绝唱？",
+    "options": [
+      "A. 《枫桥夜泊》",
+      "B. 《泊船瓜洲》",
+      "C. 《宿建德江》",
+      "D. 《题西林壁》"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0100",
+    "category": "POETRY",
+    "question": "“京口瓜洲一水间，钟山只隔数重山”中的“一水”指的是哪条江？",
+    "options": [
+      "A. 长江",
+      "B. 淮河",
+      "C. 珠江",
+      "D. 钱塘江"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0101",
+    "category": "MATH",
+    "question": "一个正方形有4条边，如果每条边长是5厘米，它的周长是多少厘米？",
+    "options": [
+      "A. 15厘米",
+      "B. 20厘米",
+      "C. 25厘米",
+      "D. 30厘米"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0102",
+    "category": "MATH",
+    "question": "计算乘法：9 × 8 = ？",
+    "options": [
+      "A. 72",
+      "B. 64",
+      "C. 81",
+      "D. 70"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0103",
+    "category": "MATH",
+    "question": "一个正方体一共有多少个面？",
+    "options": [
+      "A. 4个",
+      "B. 6个",
+      "C. 8个",
+      "D. 12个"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0104",
+    "category": "MATH",
+    "question": "小明有 15 支铅笔，小红比他多 7 支，小红有多少支铅笔？",
+    "options": [
+      "A. 20支",
+      "B. 22支",
+      "C. 24支",
+      "D. 21支"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0105",
+    "category": "MATH",
+    "question": "1 小时等于多少分钟？",
+    "options": [
+      "A. 50分钟",
+      "B. 60分钟",
+      "C. 100分钟",
+      "D. 120分钟"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0106",
+    "category": "MATH",
+    "question": "钟面上时针走一大格，分针正好走一整圈，分针走了多少分钟？",
+    "options": [
+      "A. 30分",
+      "B. 60分",
+      "C. 12分",
+      "D. 24分"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0107",
+    "category": "MATH",
+    "question": "计算减法：100 - 37 = ？",
+    "options": [
+      "A. 63",
+      "B. 73",
+      "C. 53",
+      "D. 67"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0108",
+    "category": "MATH",
+    "question": "一个任意三角形的三个内角之和是多少度？",
+    "options": [
+      "A. 90度",
+      "B. 180度",
+      "C. 360度",
+      "D. 270度"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0109",
+    "category": "MATH",
+    "question": "2 米等于多少厘米？",
+    "options": [
+      "A. 20厘米",
+      "B. 200厘米",
+      "C. 2000厘米",
+      "D. 50厘米"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0110",
+    "category": "MATH",
+    "question": "把 24 块饼干平均分给 4 个小朋友，每个小朋友分得几块？",
+    "options": [
+      "A. 5块",
+      "B. 6块",
+      "C. 7块",
+      "D. 8块"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0111",
+    "category": "MATH",
+    "question": "最大的两位数是多少？",
+    "options": [
+      "A. 90",
+      "B. 99",
+      "C. 100",
+      "D. 89"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0112",
+    "category": "MATH",
+    "question": "最小的三位数是多少？",
+    "options": [
+      "A. 99",
+      "B. 100",
+      "C. 101",
+      "D. 110"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0113",
+    "category": "MATH",
+    "question": "1 千克等于多少克？",
+    "options": [
+      "A. 100克",
+      "B. 1000克",
+      "C. 500克",
+      "D. 10克"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0114",
+    "category": "MATH",
+    "question": "计算乘法：7 × 7 = ？",
+    "options": [
+      "A. 42",
+      "B. 49",
+      "C. 56",
+      "D. 48"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0115",
+    "category": "MATH",
+    "question": "在几何中，直角等于多少度？",
+    "options": [
+      "A. 45度",
+      "B. 90度",
+      "C. 180度",
+      "D. 360度"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0116",
+    "category": "MATH",
+    "question": "笼子里有鸡和兔共5只，一共有14只脚，请问兔子有几只？",
+    "options": [
+      "A. 1只",
+      "B. 2只",
+      "C. 3只",
+      "D. 4只"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0117",
+    "category": "MATH",
+    "question": "计算乘法：12 × 5 = ？",
+    "options": [
+      "A. 50",
+      "B. 60",
+      "C. 70",
+      "D. 65"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0118",
+    "category": "MATH",
+    "question": "一个星期一共有多少天？",
+    "options": [
+      "A. 5天",
+      "B. 6天",
+      "C. 7天",
+      "D. 8天"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0119",
+    "category": "MATH",
+    "question": "长方形的长是 6 厘米，宽是 3 厘米，它的面积是多少平方厘米？",
+    "options": [
+      "A. 18平方厘米",
+      "B. 9平方厘米",
+      "C. 12平方厘米",
+      "D. 24平方厘米"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0120",
+    "category": "MATH",
+    "question": "一个数除以 8，可能的余数最大是几？",
+    "options": [
+      "A. 8",
+      "B. 7",
+      "C. 6",
+      "D. 9"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0121",
+    "category": "MATH",
+    "question": "计算加法：250 + 750 = ？",
+    "options": [
+      "A. 900",
+      "B. 1000",
+      "C. 1100",
+      "D. 950"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0122",
+    "category": "MATH",
+    "question": "一个正方形的边长是 4 分米，它的面积是多少平方分米？",
+    "options": [
+      "A. 8平方分米",
+      "B. 16平方分米",
+      "C. 12平方分米",
+      "D. 20平方分米"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0123",
+    "category": "MATH",
+    "question": "计算除法：81 ÷ 9 = ？",
+    "options": [
+      "A. 7",
+      "B. 8",
+      "C. 9",
+      "D. 10"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0124",
+    "category": "MATH",
+    "question": "0 乘任何数都得多少？",
+    "options": [
+      "A. 0",
+      "B. 1",
+      "C. 原来的数",
+      "D. 无意义"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0125",
+    "category": "MATH",
+    "question": "任何数加 0 都得多少？",
+    "options": [
+      "A. 0",
+      "B. 原来的数",
+      "C. 1",
+      "D. 10"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0126",
+    "category": "MATH",
+    "question": "1 天一共有多少个小时？",
+    "options": [
+      "A. 12小时",
+      "B. 24小时",
+      "C. 48小时",
+      "D. 36小时"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0127",
+    "category": "MATH",
+    "question": "1 年有几个季度？",
+    "options": [
+      "A. 2个",
+      "B. 4个",
+      "C. 6个",
+      "D. 12个"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0128",
+    "category": "MATH",
+    "question": "通常平年的一年有多少天？",
+    "options": [
+      "A. 365天",
+      "B. 366天",
+      "C. 360天",
+      "D. 364天"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0129",
+    "category": "MATH",
+    "question": "闰年的二月份有多少天？",
+    "options": [
+      "A. 28天",
+      "B. 29天",
+      "C. 30天",
+      "D. 31天"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0130",
+    "category": "MATH",
+    "question": "平年的二月份有多少天？",
+    "options": [
+      "A. 28天",
+      "B. 29天",
+      "C. 30天",
+      "D. 31天"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0131",
+    "category": "MATH",
+    "question": "下列月份中，属于大月（有31天）的是哪个？",
+    "options": [
+      "A. 4月",
+      "B. 6月",
+      "C. 7月",
+      "D. 9月"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0132",
+    "category": "MATH",
+    "question": "下列月份中，属于小月（有30天）的是哪个？",
+    "options": [
+      "A. 1月",
+      "B. 3月",
+      "C. 5月",
+      "D. 6月"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q_0133",
+    "category": "MATH",
+    "question": "1 分钟等于多少秒？",
+    "options": [
+      "A. 30秒",
+      "B. 60秒",
+      "C. 100秒",
+      "D. 120秒"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0134",
+    "category": "MATH",
+    "question": "计算乘法：6 × 8 = ？",
+    "options": [
+      "A. 46",
+      "B. 48",
+      "C. 54",
+      "D. 56"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0135",
+    "category": "MATH",
+    "question": "计算乘法：8 × 7 = ？",
+    "options": [
+      "A. 54",
+      "B. 56",
+      "C. 64",
+      "D. 48"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0136",
+    "category": "MATH",
+    "question": "计算乘法：9 × 9 = ？",
+    "options": [
+      "A. 72",
+      "B. 81",
+      "C. 90",
+      "D. 89"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0137",
+    "category": "MATH",
+    "question": "计算乘法：11 × 11 = ？",
+    "options": [
+      "A. 111",
+      "B. 121",
+      "C. 131",
+      "D. 141"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0138",
+    "category": "MATH",
+    "question": "计算乘法：25 × 4 = ？",
+    "options": [
+      "A. 50",
+      "B. 100",
+      "C. 125",
+      "D. 200"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0139",
+    "category": "MATH",
+    "question": "计算乘法：125 × 8 = ？",
+    "options": [
+      "A. 500",
+      "B. 1000",
+      "C. 1025",
+      "D. 800"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0140",
+    "category": "MATH",
+    "question": "一个长方形周长是 20 厘米，长是 6 厘米，宽是多少厘米？",
+    "options": [
+      "A. 4厘米",
+      "B. 5厘米",
+      "C. 7厘米",
+      "D. 8厘米"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0141",
+    "category": "MATH",
+    "question": "一根绳子长 16 米，对折两次后，每段长多少米？",
+    "options": [
+      "A. 8米",
+      "B. 4米",
+      "C. 2米",
+      "D. 1米"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0142",
+    "category": "MATH",
+    "question": "计算除法：64 ÷ 8 = ？",
+    "options": [
+      "A. 6",
+      "B. 7",
+      "C. 8",
+      "D. 9"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0143",
+    "category": "MATH",
+    "question": "计算除法：45 ÷ 5 = ？",
+    "options": [
+      "A. 7",
+      "B. 8",
+      "C. 9",
+      "D. 10"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0144",
+    "category": "MATH",
+    "question": "计算加法：38 + 47 = ？",
+    "options": [
+      "A. 75",
+      "B. 85",
+      "C. 95",
+      "D. 81"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0145",
+    "category": "MATH",
+    "question": "计算减法：92 - 45 = ？",
+    "options": [
+      "A. 47",
+      "B. 57",
+      "C. 37",
+      "D. 48"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0146",
+    "category": "MATH",
+    "question": "一个钝角比直角（90度）怎么样？",
+    "options": [
+      "A. 更大",
+      "B. 更小",
+      "C. 一样大",
+      "D. 不确定"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0147",
+    "category": "MATH",
+    "question": "一个锐角比直角（90度）怎么样？",
+    "options": [
+      "A. 更大",
+      "B. 更小",
+      "C. 一样大",
+      "D. 不确定"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0148",
+    "category": "MATH",
+    "question": "一条线段有几个端点？",
+    "options": [
+      "A. 0个",
+      "B. 1个",
+      "C. 2个",
+      "D. 无数个"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0149",
+    "category": "MATH",
+    "question": "一条射线有几个端点？",
+    "options": [
+      "A. 0个",
+      "B. 1个",
+      "C. 2个",
+      "D. 无数个"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0150",
+    "category": "MATH",
+    "question": "一条直线有几个端点？",
+    "options": [
+      "A. 0个",
+      "B. 1个",
+      "C. 2个",
+      "D. 无数个"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0151",
+    "category": "MATH",
+    "question": "时钟在 3 点整的时候，时针和分针组成的角是什么角？",
+    "options": [
+      "A. 锐角",
+      "B. 直角",
+      "C. 钝角",
+      "D. 平角"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0152",
+    "category": "MATH",
+    "question": "时钟在 6 点整的时候，时针和分针组成的角是什么角？",
+    "options": [
+      "A. 锐角",
+      "B. 直角",
+      "C. 钝角",
+      "D. 平角（180度）"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q_0153",
+    "category": "MATH",
+    "question": "一个平角等于多少度？",
+    "options": [
+      "A. 90度",
+      "B. 180度",
+      "C. 270度",
+      "D. 360度"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0154",
+    "category": "MATH",
+    "question": "一个周角等于多少度？",
+    "options": [
+      "A. 90度",
+      "B. 180度",
+      "C. 270度",
+      "D. 360度"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q_0155",
+    "category": "MATH",
+    "question": "1 吨等于多少千克？",
+    "options": [
+      "A. 100千克",
+      "B. 1000千克",
+      "C. 500千克",
+      "D. 10000千克"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0156",
+    "category": "MATH",
+    "question": "1 千米（公里）等于多少米？",
+    "options": [
+      "A. 100米",
+      "B. 1000米",
+      "C. 500米",
+      "D. 10米"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0157",
+    "category": "MATH",
+    "question": "小红从家到学校需要走 15 分钟，她要在 8:00 到校，最晚几点从家出发？",
+    "options": [
+      "A. 7:40",
+      "B. 7:45",
+      "C. 7:50",
+      "D. 7:30"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0158",
+    "category": "MATH",
+    "question": "计算：15 × 6 = ？",
+    "options": [
+      "A. 80",
+      "B. 90",
+      "C. 100",
+      "D. 85"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0159",
+    "category": "MATH",
+    "question": "计算：360 ÷ 6 = ？",
+    "options": [
+      "A. 50",
+      "B. 60",
+      "C. 70",
+      "D. 80"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0160",
+    "category": "MATH",
+    "question": "计算：480 ÷ 8 = ？",
+    "options": [
+      "A. 50",
+      "B. 60",
+      "C. 70",
+      "D. 80"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0161",
+    "category": "MATH",
+    "question": "两个完全一样的直角三角形一定可以拼成一个什么图形？",
+    "options": [
+      "A. 平行四边形或长方形",
+      "B. 正五边形",
+      "C. 圆形",
+      "D. 梯形"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0162",
+    "category": "MATH",
+    "question": "圆有几条对称轴？",
+    "options": [
+      "A. 1条",
+      "B. 2条",
+      "C. 4条",
+      "D. 无数条"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q_0163",
+    "category": "MATH",
+    "question": "长方形有几条对称轴？",
+    "options": [
+      "A. 1条",
+      "B. 2条",
+      "C. 4条",
+      "D. 无数条"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0164",
+    "category": "MATH",
+    "question": "正方形有几条对称轴？",
+    "options": [
+      "A. 2条",
+      "B. 3条",
+      "C. 4条",
+      "D. 无数条"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0165",
+    "category": "MATH",
+    "question": "等边三角形有几条对称轴？",
+    "options": [
+      "A. 1条",
+      "B. 2条",
+      "C. 3条",
+      "D. 4条"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0166",
+    "category": "MATH",
+    "question": "等边三角形的每个内角是多少度？",
+    "options": [
+      "A. 45度",
+      "B. 60度",
+      "C. 90度",
+      "D. 120度"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0167",
+    "category": "MATH",
+    "question": "计算：18 × 4 = ？",
+    "options": [
+      "A. 62",
+      "B. 72",
+      "C. 82",
+      "D. 68"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0168",
+    "category": "MATH",
+    "question": "计算：24 × 5 = ？",
+    "options": [
+      "A. 110",
+      "B. 120",
+      "C. 130",
+      "D. 100"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0169",
+    "category": "MATH",
+    "question": "把一根木头锯成 4 段，需要锯几次？",
+    "options": [
+      "A. 2次",
+      "B. 3次",
+      "C. 4次",
+      "D. 5次"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0170",
+    "category": "MATH",
+    "question": "在一条 20 米长的小路一边植树，每隔 5 米种一棵（两端都种），一共种几棵？",
+    "options": [
+      "A. 4棵",
+      "B. 5棵",
+      "C. 6棵",
+      "D. 3棵"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0171",
+    "category": "MATH",
+    "question": "一打铅笔有几支？",
+    "options": [
+      "A. 10支",
+      "B. 12支",
+      "C. 15支",
+      "D. 20支"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0172",
+    "category": "MATH",
+    "question": "1 元等于多少角？",
+    "options": [
+      "A. 5角",
+      "B. 10角",
+      "C. 50角",
+      "D. 100角"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0173",
+    "category": "MATH",
+    "question": "1 角等于多少分？",
+    "options": [
+      "A. 5分",
+      "B. 10分",
+      "C. 50分",
+      "D. 100分"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0174",
+    "category": "MATH",
+    "question": "5 元 6 角等于多少角？",
+    "options": [
+      "A. 50角",
+      "B. 56角",
+      "C. 65角",
+      "D. 560角"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0175",
+    "category": "MATH",
+    "question": "小华今年 9 岁，爸爸今年 36 岁，爸爸的年龄是小华的几倍？",
+    "options": [
+      "A. 3倍",
+      "B. 4倍",
+      "C. 5倍",
+      "D. 6倍"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0176",
+    "category": "MATH",
+    "question": "5 个连续自然数正中间一个是 10，这 5 个数的和是多少？",
+    "options": [
+      "A. 40",
+      "B. 50",
+      "C. 60",
+      "D. 55"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0177",
+    "category": "MATH",
+    "question": "偶数（双数）个位上的数字不可能是下列哪一个？",
+    "options": [
+      "A. 0",
+      "B. 2",
+      "C. 3",
+      "D. 8"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0178",
+    "category": "MATH",
+    "question": "奇数（单数）个位上的数字可能是下列哪一个？",
+    "options": [
+      "A. 2",
+      "B. 4",
+      "C. 5",
+      "D. 8"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0179",
+    "category": "MATH",
+    "question": "计算：99 + 99 = ？",
+    "options": [
+      "A. 188",
+      "B. 198",
+      "C. 208",
+      "D. 199"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0180",
+    "category": "MATH",
+    "question": "计算巧算：37 + 56 + 63 = ？",
+    "options": [
+      "A. 146",
+      "B. 156",
+      "C. 166",
+      "D. 136"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0181",
+    "category": "MATH",
+    "question": "计算巧算：125 × 32 × 25 = ？",
+    "options": [
+      "A. 10000",
+      "B. 100000",
+      "C. 1000000",
+      "D. 80000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0182",
+    "category": "MATH",
+    "question": "一个盒子里装有红球 5 个，白球 1 个，闭上眼睛摸一个球，摸出什么颜色的可能性大？",
+    "options": [
+      "A. 红球",
+      "B. 白球",
+      "C. 一样大",
+      "D. 摸不出来"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0183",
+    "category": "MATH",
+    "question": "1 升水等于多少毫升？",
+    "options": [
+      "A. 100毫升",
+      "B. 500毫升",
+      "C. 1000毫升",
+      "D. 2000毫升"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0184",
+    "category": "MATH",
+    "question": "1 平方米等于多少平方分米？",
+    "options": [
+      "A. 10平方分米",
+      "B. 100平方分米",
+      "C. 1000平方分米",
+      "D. 50平方分米"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0185",
+    "category": "MATH",
+    "question": "1 平方分米等于多少平方厘米？",
+    "options": [
+      "A. 10平方厘米",
+      "B. 100平方厘米",
+      "C. 1000平方厘米",
+      "D. 50平方厘米"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0186",
+    "category": "MATH",
+    "question": "长方体一共有几个顶点？",
+    "options": [
+      "A. 4个",
+      "B. 6个",
+      "C. 8个",
+      "D. 12个"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0187",
+    "category": "MATH",
+    "question": "长方体一共有几条棱？",
+    "options": [
+      "A. 6条",
+      "B. 8条",
+      "C. 12条",
+      "D. 16条"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0188",
+    "category": "MATH",
+    "question": "计算：14 × 14 = ？",
+    "options": [
+      "A. 186",
+      "B. 196",
+      "C. 176",
+      "D. 206"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0189",
+    "category": "MATH",
+    "question": "计算：15 × 15 = ？",
+    "options": [
+      "A. 215",
+      "B. 225",
+      "C. 235",
+      "D. 245"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0190",
+    "category": "MATH",
+    "question": "计算：16 × 16 = ？",
+    "options": [
+      "A. 246",
+      "B. 256",
+      "C. 266",
+      "D. 276"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0191",
+    "category": "MATH",
+    "question": "一个数的 3 倍是 27，这个数是多少？",
+    "options": [
+      "A. 7",
+      "B. 8",
+      "C. 9",
+      "D. 10"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0192",
+    "category": "MATH",
+    "question": "一个数除以 7 等于 9 还余 2，这个数是多少？",
+    "options": [
+      "A. 63",
+      "B. 65",
+      "C. 67",
+      "D. 61"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0193",
+    "category": "MATH",
+    "question": "计算：1000 - 456 = ？",
+    "options": [
+      "A. 544",
+      "B. 554",
+      "C. 644",
+      "D. 534"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0194",
+    "category": "MATH",
+    "question": "从 1 数到 100，一共出现了多少次数字“9”？",
+    "options": [
+      "A. 10次",
+      "B. 19次",
+      "C. 20次",
+      "D. 21次"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0195",
+    "category": "MATH",
+    "question": "把 5 块糖平均分给 5 个小朋友，每人分得全部糖果的几分之几？",
+    "options": [
+      "A. 五分之一 (1/5)",
+      "B. 一块",
+      "C. 1",
+      "D. 五分之五"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0196",
+    "category": "MATH",
+    "question": "计算分数加法：1/4 + 2/4 = ？",
+    "options": [
+      "A. 3/8",
+      "B. 3/4",
+      "C. 2/4",
+      "D. 1"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0197",
+    "category": "MATH",
+    "question": "计算：1 - 3/7 = ？",
+    "options": [
+      "A. 2/7",
+      "B. 4/7",
+      "C. 3/7",
+      "D. 5/7"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0198",
+    "category": "MATH",
+    "question": "圆柱体上下两个底面是什么形状？",
+    "options": [
+      "A. 完全一样的圆形",
+      "B. 椭圆形",
+      "C. 正方形",
+      "D. 三角形"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0199",
+    "category": "MATH",
+    "question": "如果 A + B = 10，A - B = 4，那么 A 是多少？",
+    "options": [
+      "A. 5",
+      "B. 6",
+      "C. 7",
+      "D. 8"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0200",
+    "category": "MATH",
+    "question": "计算：50 × 60 = ？",
+    "options": [
+      "A. 300",
+      "B. 3000",
+      "C. 30000",
+      "D. 3500"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0201",
+    "category": "ENGLISH",
+    "question": "英文单词 “Apple” 中文是什么意思？",
+    "options": [
+      "A. 香蕉",
+      "B. 苹果",
+      "C. 橘子",
+      "D. 葡萄"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0202",
+    "category": "ENGLISH",
+    "question": "“Good morning” 是向别人打什么招呼？",
+    "options": [
+      "A. 早上好",
+      "B. 下午好",
+      "C. 晚上好",
+      "D. 再见"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0203",
+    "category": "ENGLISH",
+    "question": "“Red” 是指什么颜色？",
+    "options": [
+      "A. 蓝色",
+      "B. 黄色",
+      "C. 红色",
+      "D. 绿色"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0204",
+    "category": "ENGLISH",
+    "question": "“Dog” 是指哪种可爱的小动物？",
+    "options": [
+      "A. 猫",
+      "B. 狗",
+      "C. 兔子",
+      "D. 鸭子"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0205",
+    "category": "ENGLISH",
+    "question": "英文中数字 “Eight” 对应的阿拉伯数字是？",
+    "options": [
+      "A. 6",
+      "B. 7",
+      "C. 8",
+      "D. 9"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0206",
+    "category": "ENGLISH",
+    "question": "“Thank you” 的中文意思是什么？",
+    "options": [
+      "A. 对不起",
+      "B. 谢谢你",
+      "C. 没关系",
+      "D. 请进"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0207",
+    "category": "ENGLISH",
+    "question": "单词 “Book” 的中文含义是？",
+    "options": [
+      "A. 书本",
+      "B. 书包",
+      "C. 铅笔",
+      "D. 橡皮"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0208",
+    "category": "ENGLISH",
+    "question": "当你想表达“我喜欢你”时，英文应该说？",
+    "options": [
+      "A. I like you",
+      "B. I miss you",
+      "C. You like me",
+      "D. See you"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0209",
+    "category": "ENGLISH",
+    "question": "单词 “Banana” 是指哪种水果？",
+    "options": [
+      "A. 梨子",
+      "B. 西瓜",
+      "C. 香蕉",
+      "D. 草莓"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0210",
+    "category": "ENGLISH",
+    "question": "家庭成员中，“Mother” 是指谁？",
+    "options": [
+      "A. 爸爸",
+      "B. 妈妈",
+      "C. 爷爷",
+      "D. 奶奶"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0211",
+    "category": "ENGLISH",
+    "question": "“Big” 的反义词是哪个词？",
+    "options": [
+      "A. Tall",
+      "B. Small",
+      "C. Long",
+      "D. Fast"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0212",
+    "category": "ENGLISH",
+    "question": "英文中 “Cat” 是什么动物？",
+    "options": [
+      "A. 小猫",
+      "B. 小狗",
+      "C. 小鸟",
+      "D. 熊猫"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0213",
+    "category": "ENGLISH",
+    "question": "“Blue” 代表什么颜色？",
+    "options": [
+      "A. 黑色",
+      "B. 白色",
+      "C. 蓝色",
+      "D. 紫色"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0214",
+    "category": "ENGLISH",
+    "question": "“Water” 是什么意思？",
+    "options": [
+      "A. 牛奶",
+      "B. 水",
+      "C. 果汁",
+      "D. 茶"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0215",
+    "category": "ENGLISH",
+    "question": "“Goodbye” 是什么意思？",
+    "options": [
+      "A. 你好",
+      "B. 再见",
+      "C. 晚安",
+      "D. 欢迎"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0216",
+    "category": "ENGLISH",
+    "question": "“Sun” 指的是哪一天体？",
+    "options": [
+      "A. 月亮",
+      "B. 太阳",
+      "C. 星星",
+      "D. 地球"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0217",
+    "category": "ENGLISH",
+    "question": "英文数字 “Three” 代表几？",
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0218",
+    "category": "ENGLISH",
+    "question": "“School” 中文是指什么地方？",
+    "options": [
+      "A. 公园",
+      "B. 学校",
+      "C. 医院",
+      "D. 动物园"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0219",
+    "category": "ENGLISH",
+    "question": "“Pencil” 是指哪种文具？",
+    "options": [
+      "A. 铅笔",
+      "B. 尺子",
+      "C. 橡皮",
+      "D. 钢笔"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0220",
+    "category": "ENGLISH",
+    "question": "“Fish” 是指哪种动物？",
+    "options": [
+      "A. 鱼",
+      "B. 鸟",
+      "C. 兔",
+      "D. 猴"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0221",
+    "category": "ENGLISH",
+    "question": "“Father” 是家庭成员中的谁？",
+    "options": [
+      "A. 爸爸",
+      "B. 妈妈",
+      "C. 哥哥",
+      "D. 弟弟"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0222",
+    "category": "ENGLISH",
+    "question": "“Sister” 是指谁？",
+    "options": [
+      "A. 姐姐/妹妹",
+      "B. 哥哥/弟弟",
+      "C. 叔叔",
+      "D. 阿姨"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0223",
+    "category": "ENGLISH",
+    "question": "“Brother” 是指谁？",
+    "options": [
+      "A. 哥哥/弟弟",
+      "B. 姐姐/妹妹",
+      "C. 爷爷",
+      "D. 奶奶"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0224",
+    "category": "ENGLISH",
+    "question": "“Yellow” 是什么颜色？",
+    "options": [
+      "A. 绿色",
+      "B. 黄色",
+      "C. 橙色",
+      "D. 褐色"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0225",
+    "category": "ENGLISH",
+    "question": "“Green” 是什么颜色？",
+    "options": [
+      "A. 绿色",
+      "B. 黑色",
+      "C. 红色",
+      "D. 白色"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0226",
+    "category": "ENGLISH",
+    "question": "“Black” 是什么颜色？",
+    "options": [
+      "A. 白色",
+      "B. 黑色",
+      "C. 灰色",
+      "D. 粉色"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0227",
+    "category": "ENGLISH",
+    "question": "“White” 是什么颜色？",
+    "options": [
+      "A. 白色",
+      "B. 黑色",
+      "C. 红色",
+      "D. 蓝色"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0228",
+    "category": "ENGLISH",
+    "question": "“Orange” 除了表示橙色，还可以表示什么水果？",
+    "options": [
+      "A. 苹果",
+      "B. 橘子/橙子",
+      "C. 梨子",
+      "D. 桃子"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0229",
+    "category": "ENGLISH",
+    "question": "“Bird” 是指哪类动物？",
+    "options": [
+      "A. 鱼类",
+      "B. 鸟/飞禽",
+      "C. 昆虫",
+      "D. 爬行动物"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0230",
+    "category": "ENGLISH",
+    "question": "“Duck” 是什么动物？",
+    "options": [
+      "A. 鸡",
+      "B. 鸭子",
+      "C. 鹅",
+      "D. 鸟"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0231",
+    "category": "ENGLISH",
+    "question": "“Pig” 是什么动物？",
+    "options": [
+      "A. 猪",
+      "B. 牛",
+      "C. 羊",
+      "D. 马"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0232",
+    "category": "ENGLISH",
+    "question": "“Cow” 是指什么动物？",
+    "options": [
+      "A. 奶牛",
+      "B. 绵羊",
+      "C. 驴子",
+      "D. 骆驼"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0233",
+    "category": "ENGLISH",
+    "question": "“Horse” 是指什么动物？",
+    "options": [
+      "A. 马",
+      "B. 鹿",
+      "C. 斑马",
+      "D. 狮子"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0234",
+    "category": "ENGLISH",
+    "question": "“Tiger” 是森林之王中的哪种猛兽？",
+    "options": [
+      "A. 老虎",
+      "B. 狮子",
+      "C. 猎豹",
+      "D. 狼"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0235",
+    "category": "ENGLISH",
+    "question": "“Lion” 是指哪种猛兽？",
+    "options": [
+      "A. 狮子",
+      "B. 老虎",
+      "C. 熊",
+      "D. 豹子"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0236",
+    "category": "ENGLISH",
+    "question": "“Panda” 是中国的国宝什么动物？",
+    "options": [
+      "A. 大熊猫",
+      "B. 金丝猴",
+      "C. 藏羚羊",
+      "D. 东北虎"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0237",
+    "category": "ENGLISH",
+    "question": "“Monkey” 是什么动物？",
+    "options": [
+      "A. 猴子",
+      "B. 狐狸",
+      "C. 松鼠",
+      "D. 袋鼠"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0238",
+    "category": "ENGLISH",
+    "question": "“Elephant” 是一种体型庞大长鼻子的动物，它是？",
+    "options": [
+      "A. 大象",
+      "B. 犀牛",
+      "C. 河马",
+      "D. 长颈鹿"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0239",
+    "category": "ENGLISH",
+    "question": "“Giraffe” 是指脖子很长的什么动物？",
+    "options": [
+      "A. 长颈鹿",
+      "B. 斑马",
+      "C. 鸵鸟",
+      "D. 骆驼"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0240",
+    "category": "ENGLISH",
+    "question": "“Rabbit” 是一种长耳朵爱吃胡萝卜的小动物，它是？",
+    "options": [
+      "A. 小兔子",
+      "B. 仓鼠",
+      "C. 龙猫",
+      "D. 刺猬"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0241",
+    "category": "ENGLISH",
+    "question": "英文数字 “One” 代表阿拉伯数字几？",
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0242",
+    "category": "ENGLISH",
+    "question": "英文数字 “Two” 代表阿拉伯数字几？",
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0243",
+    "category": "ENGLISH",
+    "question": "英文数字 “Four” 代表阿拉伯数字几？",
+    "options": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0244",
+    "category": "ENGLISH",
+    "question": "英文数字 “Five” 代表阿拉伯数字几？",
+    "options": [
+      "A. 4",
+      "B. 5",
+      "C. 6",
+      "D. 7"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0245",
+    "category": "ENGLISH",
+    "question": "英文数字 “Six” 代表阿拉伯数字几？",
+    "options": [
+      "A. 5",
+      "B. 6",
+      "C. 7",
+      "D. 8"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0246",
+    "category": "ENGLISH",
+    "question": "英文数字 “Seven” 代表阿拉伯数字几？",
+    "options": [
+      "A. 6",
+      "B. 7",
+      "C. 8",
+      "D. 9"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0247",
+    "category": "ENGLISH",
+    "question": "英文数字 “Nine” 代表阿拉伯数字几？",
+    "options": [
+      "A. 8",
+      "B. 9",
+      "C. 10",
+      "D. 11"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0248",
+    "category": "ENGLISH",
+    "question": "英文数字 “Ten” 代表阿拉伯数字几？",
+    "options": [
+      "A. 9",
+      "B. 10",
+      "C. 11",
+      "D. 12"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0249",
+    "category": "ENGLISH",
+    "question": "英文数字 “Zero” 代表什么？",
+    "options": [
+      "A. 0",
+      "B. 1",
+      "C. 10",
+      "D. 100"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0250",
+    "category": "ENGLISH",
+    "question": "英文数字 “Twelve” 代表几？",
+    "options": [
+      "A. 11",
+      "B. 12",
+      "C. 13",
+      "D. 20"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0251",
+    "category": "ENGLISH",
+    "question": "“Eye” 是人体的哪个器官？",
+    "options": [
+      "A. 眼睛",
+      "B. 耳朵",
+      "C. 鼻子",
+      "D. 嘴巴"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0252",
+    "category": "ENGLISH",
+    "question": "“Ear” 是人体的哪个器官？",
+    "options": [
+      "A. 眼睛",
+      "B. 耳朵",
+      "C. 鼻子",
+      "D. 手"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0253",
+    "category": "ENGLISH",
+    "question": "“Nose” 是人体的哪个器官？",
+    "options": [
+      "A. 鼻子",
+      "B. 嘴巴",
+      "C. 牙齿",
+      "D. 头发"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0254",
+    "category": "ENGLISH",
+    "question": "“Mouth” 是人体的哪个部位？",
+    "options": [
+      "A. 嘴巴",
+      "B. 脸颊",
+      "C. 脖子",
+      "D. 下巴"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0255",
+    "category": "ENGLISH",
+    "question": "“Hand” 是人体的哪个部位？",
+    "options": [
+      "A. 手",
+      "B. 脚",
+      "C. 腿",
+      "D. 手臂"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0256",
+    "category": "ENGLISH",
+    "question": "“Foot” 的复数形式是哪一个？",
+    "options": [
+      "A. Foots",
+      "B. Feet",
+      "C. Footes",
+      "D. Feets"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0257",
+    "category": "ENGLISH",
+    "question": "“Leg” 是指人体的哪个部位？",
+    "options": [
+      "A. 腿",
+      "B. 手臂",
+      "C. 肩膀",
+      "D. 背部"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0258",
+    "category": "ENGLISH",
+    "question": "“Head” 是指人体的哪个部位？",
+    "options": [
+      "A. 头",
+      "B. 腰",
+      "C. 膝盖",
+      "D. 脚趾"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0259",
+    "category": "ENGLISH",
+    "question": "“Teacher” 是一种辛勤培育学生的职业，它是？",
+    "options": [
+      "A. 老师",
+      "B. 医生",
+      "C. 警察",
+      "D. 司机"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0260",
+    "category": "ENGLISH",
+    "question": "“Doctor” 是在医院救死扶伤的什么职业？",
+    "options": [
+      "A. 医生",
+      "B. 护士",
+      "C. 老师",
+      "D. 厨师"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0261",
+    "category": "ENGLISH",
+    "question": "“Nurse” 是指医院里的什么职业？",
+    "options": [
+      "A. 护士",
+      "B. 医生",
+      "C. 药剂师",
+      "D. 牙医"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0262",
+    "category": "ENGLISH",
+    "question": "“Police” 是指维护社会治安的？",
+    "options": [
+      "A. 警察",
+      "B. 消防员",
+      "C. 邮递员",
+      "D. 环卫工"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0263",
+    "category": "ENGLISH",
+    "question": "“Cook” 作为名词时，是指什么职业？",
+    "options": [
+      "A. 厨师",
+      "B. 服务员",
+      "C. 导游",
+      "D. 售票员"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0264",
+    "category": "ENGLISH",
+    "question": "“Student” 是指什么身份的人？",
+    "options": [
+      "A. 学生",
+      "B. 老师",
+      "C. 家长",
+      "D. 校长"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0265",
+    "category": "ENGLISH",
+    "question": "“Milk” 是指我们经常喝的什么饮品？",
+    "options": [
+      "A. 牛奶",
+      "B. 果汁",
+      "C. 豆浆",
+      "D. 可乐"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0266",
+    "category": "ENGLISH",
+    "question": "“Bread” 是指哪种主食？",
+    "options": [
+      "A. 面包",
+      "B. 面条",
+      "C. 米饭",
+      "D. 饺子"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0267",
+    "category": "ENGLISH",
+    "question": "“Rice” 是指南方人常吃的主食？",
+    "options": [
+      "A. 米饭",
+      "B. 面包",
+      "C. 馒头",
+      "D. 披萨"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0268",
+    "category": "ENGLISH",
+    "question": "“Noodles” 是指什么美食？",
+    "options": [
+      "A. 面条",
+      "B. 饼干",
+      "C. 蛋糕",
+      "D. 汉堡"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0269",
+    "category": "ENGLISH",
+    "question": "“Egg” 是指母鸡生的什么？",
+    "options": [
+      "A. 鸡蛋",
+      "B. 鸭蛋",
+      "C. 鹅蛋",
+      "D. 鸟蛋"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0270",
+    "category": "ENGLISH",
+    "question": "“Hot” 的反义词是？",
+    "options": [
+      "A. Cold（寒冷）",
+      "B. Warm",
+      "C. Cool",
+      "D. Ice"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0271",
+    "category": "ENGLISH",
+    "question": "“Happy” 的反义词是？",
+    "options": [
+      "A. Sad（伤心）",
+      "B. Glad",
+      "C. Angry",
+      "D. Tired"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0272",
+    "category": "ENGLISH",
+    "question": "“Tall” 的反义词是？",
+    "options": [
+      "A. Short（矮的）",
+      "B. Long",
+      "C. Fat",
+      "D. Thin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0273",
+    "category": "ENGLISH",
+    "question": "“Fast” 的反义词是？",
+    "options": [
+      "A. Slow（慢的）",
+      "B. Quick",
+      "C. High",
+      "D. Low"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0274",
+    "category": "ENGLISH",
+    "question": "“Up” 的反义词是？",
+    "options": [
+      "A. Down（向下）",
+      "B. Left",
+      "C. Right",
+      "D. Front"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0275",
+    "category": "ENGLISH",
+    "question": "“Left” 的对应反义词是？",
+    "options": [
+      "A. Right（右边）",
+      "B. Top",
+      "C. Bottom",
+      "D. Back"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0276",
+    "category": "ENGLISH",
+    "question": "“Open the door” 中文意思是？",
+    "options": [
+      "A. 开门",
+      "B. 关门",
+      "C. 开窗",
+      "D. 关窗"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0277",
+    "category": "ENGLISH",
+    "question": "“Close the window” 中文意思是？",
+    "options": [
+      "A. 关窗户",
+      "B. 开窗户",
+      "C. 擦桌子",
+      "D. 扫地"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0278",
+    "category": "ENGLISH",
+    "question": "“Sit down, please” 是什么礼貌用语？",
+    "options": [
+      "A. 请坐",
+      "B. 请起立",
+      "C. 请进",
+      "D. 请安静"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0279",
+    "category": "ENGLISH",
+    "question": "“Stand up” 是指什么动作？",
+    "options": [
+      "A. 起立/站起来",
+      "B. 坐下",
+      "C. 跑步",
+      "D. 跳跃"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0280",
+    "category": "ENGLISH",
+    "question": "星期一在英语中怎么说？",
+    "options": [
+      "A. Monday",
+      "B. Tuesday",
+      "C. Wednesday",
+      "D. Sunday"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0281",
+    "category": "ENGLISH",
+    "question": "星期天（周日）在英语中怎么说？",
+    "options": [
+      "A. Sunday",
+      "B. Saturday",
+      "C. Friday",
+      "D. Thursday"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0282",
+    "category": "ENGLISH",
+    "question": "星期五在英语中怎么说？",
+    "options": [
+      "A. Friday",
+      "B. Thursday",
+      "C. Tuesday",
+      "D. Wednesday"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0283",
+    "category": "ENGLISH",
+    "question": "“Today is sunny” 说明今天的天气怎么样？",
+    "options": [
+      "A. 晴朗阳光明媚",
+      "B. 下雨天",
+      "C. 刮大风",
+      "D. 下大雪"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0284",
+    "category": "ENGLISH",
+    "question": "“Rain” 是指哪种自然天气？",
+    "options": [
+      "A. 雨水",
+      "B. 雪花",
+      "C. 白云",
+      "D. 雾气"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0285",
+    "category": "ENGLISH",
+    "question": "“Snow” 是指冬天的什么？",
+    "options": [
+      "A. 雪",
+      "B. 霜",
+      "C. 露水",
+      "D. 冰雹"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0286",
+    "category": "ENGLISH",
+    "question": "“Wind” 是指什么自然现象？",
+    "options": [
+      "A. 风",
+      "B. 雷",
+      "C. 电",
+      "D. 虹"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0287",
+    "category": "ENGLISH",
+    "question": "“Spring” 是一年四季中的哪一个季节？",
+    "options": [
+      "A. 春季",
+      "B. 夏季",
+      "C. 秋季",
+      "D. 冬季"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0288",
+    "category": "ENGLISH",
+    "question": "“Summer” 是哪一个季节？",
+    "options": [
+      "A. 夏季",
+      "B. 冬季",
+      "C. 春季",
+      "D. 秋季"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0289",
+    "category": "ENGLISH",
+    "question": "“Autumn” 或 “Fall” 是指哪一个季节？",
+    "options": [
+      "A. 秋季",
+      "B. 春季",
+      "C. 夏季",
+      "D. 冬季"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0290",
+    "category": "ENGLISH",
+    "question": "“Winter” 是指哪一个寒冷的季节？",
+    "options": [
+      "A. 冬季",
+      "B. 春季",
+      "C. 夏季",
+      "D. 秋季"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0291",
+    "category": "ENGLISH",
+    "question": "“How are you?” 最常用的礼貌回答是？",
+    "options": [
+      "A. I am fine, thank you.",
+      "B. How are you?",
+      "C. Goodbye.",
+      "D. Yes, I am."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0292",
+    "category": "ENGLISH",
+    "question": "别人帮助了你，你应该说？",
+    "options": [
+      "A. Thank you.",
+      "B. Sorry.",
+      "C. Excuse me.",
+      "D. Hello."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0293",
+    "category": "ENGLISH",
+    "question": "不小心踩到别人脚时，你应该礼貌地说？",
+    "options": [
+      "A. I am sorry.",
+      "B. Thank you.",
+      "C. Goodbye.",
+      "D. No problem."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0294",
+    "category": "ENGLISH",
+    "question": "初次见面打招呼时可以说？",
+    "options": [
+      "A. Nice to meet you.",
+      "B. What time is it?",
+      "C. Where are you from?",
+      "D. See you."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0295",
+    "category": "ENGLISH",
+    "question": "“Where is my bag?” 这句话是在询问什么？",
+    "options": [
+      "A. 我的书包在哪里？",
+      "B. 这是谁的书包？",
+      "C. 书包多少钱？",
+      "D. 书包是什么颜色？"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0296",
+    "category": "ENGLISH",
+    "question": "“What time is it?” 这句话是在询问什么？",
+    "options": [
+      "A. 现在几点了？",
+      "B. 今天星期几？",
+      "C. 今天几号？",
+      "D. 天气怎么样？"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0297",
+    "category": "ENGLISH",
+    "question": "“Happy birthday to you!” 是在庆祝什么？",
+    "options": [
+      "A. 祝你生日快乐！",
+      "B. 新年快乐！",
+      "C. 节日快乐！",
+      "D. 欢迎光临！"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0298",
+    "category": "ENGLISH",
+    "question": "“Welcome” 中文是什么意思？",
+    "options": [
+      "A. 欢迎",
+      "B. 再见",
+      "C. 慢走",
+      "D. 谢谢"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0299",
+    "category": "ENGLISH",
+    "question": "“Look at the blackboard” 是老师上课时常说的哪句话？",
+    "options": [
+      "A. 看黑板",
+      "B. 打开书",
+      "C. 合上书",
+      "D. 拿笔写字"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0300",
+    "category": "ENGLISH",
+    "question": "“See you tomorrow” 是向别人说？",
+    "options": [
+      "A. 明天见",
+      "B. 下周见",
+      "C. 晚上好",
+      "D. 昨天见"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0301",
+    "category": "ENCYCLOPEDIA",
+    "question": "如果发生火灾，我们应该拨打哪个紧急求助电话？",
+    "options": [
+      "A. 110",
+      "B. 119",
+      "C. 120",
+      "D. 122"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0302",
+    "category": "ENCYCLOPEDIA",
+    "question": "遇到有人突发严重急病昏迷，应拨打哪个急救电话？",
+    "options": [
+      "A. 119",
+      "B. 120",
+      "C. 110",
+      "D. 122"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0303",
+    "category": "ENCYCLOPEDIA",
+    "question": "发现坏人行凶或遭遇危险求救，应拨打哪个报警电话？",
+    "options": [
+      "A. 110",
+      "B. 119",
+      "C. 120",
+      "D. 12315"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0304",
+    "category": "ENCYCLOPEDIA",
+    "question": "发生交通事故时，应拨打哪个交通报警电话？",
+    "options": [
+      "A. 122",
+      "B. 119",
+      "C. 114",
+      "D. 120"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0305",
+    "category": "ENCYCLOPEDIA",
+    "question": "废旧干电池属于哪一类垃圾？",
+    "options": [
+      "A. 厨余垃圾",
+      "B. 可回收物",
+      "C. 有害垃圾",
+      "D. 其他垃圾"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0306",
+    "category": "ENCYCLOPEDIA",
+    "question": "喝完饮料的易拉罐、矿泉水塑料瓶属于哪一类垃圾？",
+    "options": [
+      "A. 有害垃圾",
+      "B. 可回收物",
+      "C. 厨余垃圾",
+      "D. 其它垃圾"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0307",
+    "category": "ENCYCLOPEDIA",
+    "question": "吃剩的饭菜、果皮属于哪一类垃圾？",
+    "options": [
+      "A. 厨余垃圾",
+      "B. 可回收垃圾",
+      "C. 有害垃圾",
+      "D. 建筑垃圾"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0308",
+    "category": "ENCYCLOPEDIA",
+    "question": "人体正常体温大约是多少摄氏度左右？",
+    "options": [
+      "A. 35℃",
+      "B. 36.5℃",
+      "C. 39℃",
+      "D. 40℃"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0309",
+    "category": "ENCYCLOPEDIA",
+    "question": "过马路时，红绿灯中的哪个灯亮起表示可以通行？",
+    "options": [
+      "A. 红灯",
+      "B. 黄灯",
+      "C. 绿灯",
+      "D. 闪烁灯"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0310",
+    "category": "ENCYCLOPEDIA",
+    "question": "为什么先看到闪电，后听到雷声？",
+    "options": [
+      "A. 光速比声速快得多",
+      "B. 声速比光速快",
+      "C. 眼睛比耳朵灵敏",
+      "D. 雷声产生得晚"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0311",
+    "category": "ENCYCLOPEDIA",
+    "question": "打雷下雨时，我们在室外绝对不能站在哪里避雨？",
+    "options": [
+      "A. 室内",
+      "B. 高耸的大树下",
+      "C. 车内",
+      "D. 砖混房屋内"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0312",
+    "category": "ENCYCLOPEDIA",
+    "question": "人体如果缺乏哪种维生素容易患坏血病（多吃新鲜水果蔬菜可补充）？",
+    "options": [
+      "A. 维生素A",
+      "B. 维生素C",
+      "C. 维生素D",
+      "D. 维生素B"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0313",
+    "category": "ENCYCLOPEDIA",
+    "question": "食物保存在冰箱里不容易变质，主要原因是什么？",
+    "options": [
+      "A. 里面没有空气",
+      "B. 低温抑制细菌繁殖",
+      "C. 冰箱能彻底杀光细菌",
+      "D. 里面很黑"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0314",
+    "category": "ENCYCLOPEDIA",
+    "question": "生水一定要烧开沸腾后才能喝，主要是为了什么？",
+    "options": [
+      "A. 让水变甜",
+      "B. 高温杀灭水中的致病菌",
+      "C. 改变水的颜色",
+      "D. 蒸发杂质"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0315",
+    "category": "ENCYCLOPEDIA",
+    "question": "眼睛感到疲劳时，眺望远处的哪种颜色有助于缓解眼部疲劳？",
+    "options": [
+      "A. 鲜红色",
+      "B. 黑色",
+      "C. 绿色植物",
+      "D. 紫色"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0316",
+    "category": "ENCYCLOPEDIA",
+    "question": "自行车骑行时按住刹车手柄停下来，利用的是什么物理力？",
+    "options": [
+      "A. 重力",
+      "B. 摩擦力",
+      "C. 浮力",
+      "D. 弹力"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0317",
+    "category": "ENCYCLOPEDIA",
+    "question": "皮肤发生轻微烫伤且未破皮时，第一步正确的急救方法是？",
+    "options": [
+      "A. 涂抹牙膏",
+      "B. 用流动的干净冷水持续冲洗降温",
+      "C. 涂酱油或香油",
+      "D. 用布包紧"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0318",
+    "category": "ENCYCLOPEDIA",
+    "question": "苍蝇在停下来的时候，经常做的一个标志性动作是什么？",
+    "options": [
+      "A. 睡觉",
+      "B. 搓脚（足）",
+      "C. 梳理翅膀",
+      "D. 跳舞"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0319",
+    "category": "ENCYCLOPEDIA",
+    "question": "下列哪种食物钙质丰富，非常有利于少年儿童骨骼和牙齿发育？",
+    "options": [
+      "A. 纯牛奶",
+      "B. 碳酸汽水",
+      "C. 油炸薯片",
+      "D. 彩虹糖"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0320",
+    "category": "ENCYCLOPEDIA",
+    "question": "美丽的彩虹一般出现在什么天气之后？",
+    "options": [
+      "A. 鹅毛大雪之后",
+      "B. 雨过天晴阳光照耀时",
+      "C. 狂风暴雨中",
+      "D. 浓雾清晨"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0321",
+    "category": "ENCYCLOPEDIA",
+    "question": "声音是由发声物体的什么现象产生的？",
+    "options": [
+      "A. 发光",
+      "B. 机械振动",
+      "C. 加热升温",
+      "D. 化学变化"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0322",
+    "category": "ENCYCLOPEDIA",
+    "question": "每天早晚刷牙，单次建议刷牙时长大约是多久最科学有效？",
+    "options": [
+      "A. 10秒",
+      "B. 30秒",
+      "C. 2~3分钟",
+      "D. 15分钟"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0323",
+    "category": "ENCYCLOPEDIA",
+    "question": "我们呼吸时，人体吸入氧气，呼出的气体中哪种成分明显增多了？",
+    "options": [
+      "A. 氧气",
+      "B. 二氧化碳",
+      "C. 氢气",
+      "D. 氮气"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0324",
+    "category": "ENCYCLOPEDIA",
+    "question": "蜜蜂酿造香甜的蜂蜜，主要采集的是植物的什么？",
+    "options": [
+      "A. 树皮",
+      "B. 花蜜",
+      "C. 树叶汁液",
+      "D. 树根水"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0325",
+    "category": "ENCYCLOPEDIA",
+    "question": "指南针的指针在静止时，N极指向的是地球的哪一方？",
+    "options": [
+      "A. 东方",
+      "B. 南方",
+      "C. 西方",
+      "D. 北方"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q_0326",
+    "category": "ENCYCLOPEDIA",
+    "question": "用湿手去触摸家用电器的开关或插座，最大的危险是什么？",
+    "options": [
+      "A. 容易触电",
+      "B. 开关会生锈",
+      "C. 电费会变多",
+      "D. 容易弄脏手"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0327",
+    "category": "ENCYCLOPEDIA",
+    "question": "乘车时系安全带的主要作用是什么？",
+    "options": [
+      "A. 防止急刹车或碰撞时人被甩出受伤",
+      "B. 为了坐得更端正",
+      "C. 为了漂亮",
+      "D. 怕衣服变皱"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0328",
+    "category": "ENCYCLOPEDIA",
+    "question": "火警发生时如果产生大量浓烟，正确的逃生姿势是？",
+    "options": [
+      "A. 昂首挺胸快跑",
+      "B. 用湿毛巾捂住口鼻压低身体匍匐前进",
+      "C. 跳楼",
+      "D. 坐电梯"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0329",
+    "category": "ENCYCLOPEDIA",
+    "question": "高层建筑发生火灾时，绝对不能乘坐什么逃生？",
+    "options": [
+      "A. 消防安全通道楼梯",
+      "B. 普通电梯",
+      "C. 应急疏散通道",
+      "D. 消防连廊"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0330",
+    "category": "ENCYCLOPEDIA",
+    "question": "夏天在户外游泳，应该选择什么安全场所？",
+    "options": [
+      "A. 水库深水区",
+      "B. 有救生员的正规游泳馆",
+      "C. 未知深浅的野外河流",
+      "D. 建筑工地水坑"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0331",
+    "category": "ENCYCLOPEDIA",
+    "question": "如果不小心溺水，自救的第一要领是？",
+    "options": [
+      "A. 拼命乱抓乱蹬",
+      "B. 保持冷静放松身体头向后仰口鼻露出水面呼救",
+      "C. 潜入水底憋气",
+      "D. 把水喝干"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0332",
+    "category": "ENCYCLOPEDIA",
+    "question": "我们常说的“一日三餐”，下列哪个原则最科学健康？",
+    "options": [
+      "A. 早上不吃，晚上暴饮暴食",
+      "B. 早餐吃好，午餐吃饱，晚餐适量",
+      "C. 全天只吃肉不吃蔬菜",
+      "D. 只喝饮料不吃米饭"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0333",
+    "category": "ENCYCLOPEDIA",
+    "question": "胡萝卜中含有丰富的胡萝卜素，在人体内可以转化为保护视力的什么？",
+    "options": [
+      "A. 维生素A",
+      "B. 维生素C",
+      "C. 维生素K",
+      "D. 铁元素"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0334",
+    "category": "ENCYCLOPEDIA",
+    "question": "晒太阳有助于人体自身合成哪种促进钙吸收的维生素？",
+    "options": [
+      "A. 维生素A",
+      "B. 维生素C",
+      "C. 维生素D",
+      "D. 维生素E"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0335",
+    "category": "ENCYCLOPEDIA",
+    "question": "煮熟的鸡蛋更容易被人体消化吸收，主要是因为蛋白质发生了什么？",
+    "options": [
+      "A. 变性",
+      "B. 消失",
+      "C. 变甜",
+      "D. 发酵"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0336",
+    "category": "ENCYCLOPEDIA",
+    "question": "下列动物中，属于哺乳动物的是哪一个？",
+    "options": [
+      "A. 金鱼",
+      "B. 鲸鱼",
+      "C. 鳄鱼",
+      "D. 乌龟"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0337",
+    "category": "ENCYCLOPEDIA",
+    "question": "企鹅虽然有翅膀但不能飞翔，它属于哪一类动物？",
+    "options": [
+      "A. 鸟类",
+      "B. 鱼类",
+      "C. 哺乳类",
+      "D. 两栖类"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0338",
+    "category": "ENCYCLOPEDIA",
+    "question": "蝙蝠能够在夜间自由穿行捕食昆虫，它主要依靠什么定位？",
+    "options": [
+      "A. 超敏锐的视力",
+      "B. 回声定位（超声波）",
+      "C. 嗅觉闻味道",
+      "D. 靠星光指引"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0339",
+    "category": "ENCYCLOPEDIA",
+    "question": "壁虎在遇到危险时常常会做出什么自救行为？",
+    "options": [
+      "A. 装死",
+      "B. 自断尾巴逃生",
+      "C. 喷射墨汁",
+      "D. 变色发光"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0340",
+    "category": "ENCYCLOPEDIA",
+    "question": "变色龙改变身体颜色的主要目的之一是什么？",
+    "options": [
+      "A. 伪装隐藏自己与沟通",
+      "B. 吸引天敌",
+      "C. 给自己降温",
+      "D. 为了洗澡"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0341",
+    "category": "ENCYCLOPEDIA",
+    "question": "植物通过什么作用将水和二氧化碳转化为氧气和养料？",
+    "options": [
+      "A. 蒸腾作用",
+      "B. 光合作用",
+      "C. 呼吸作用",
+      "D. 吸收作用"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0342",
+    "category": "ENCYCLOPEDIA",
+    "question": "绿色植物叶片之所以呈绿色，是因为细胞中含有大量的什么？",
+    "options": [
+      "A. 叶绿素",
+      "B. 花青素",
+      "C. 胡萝卜素",
+      "D. 水分"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0343",
+    "category": "ENCYCLOPEDIA",
+    "question": "大树树干上的“年轮”一圈通常代表大树生长了多久？",
+    "options": [
+      "A. 一个月",
+      "B. 一年",
+      "C. 十年",
+      "D. 一百年"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0344",
+    "category": "ENCYCLOPEDIA",
+    "question": "含羞草被触碰时叶片会合拢下垂，这是植物对外界刺激产生的什么？",
+    "options": [
+      "A. 感应性反应",
+      "B. 害怕哭泣",
+      "C. 生病枯萎",
+      "D. 准备开花"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0345",
+    "category": "ENCYCLOPEDIA",
+    "question": "下雨天青蛙叫声格外响亮，主要因为什么？",
+    "options": [
+      "A. 空气湿润有利于其呼吸和求偶",
+      "B. 找不到吃的",
+      "C. 被雨淋疼了",
+      "D. 害怕打雷"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0346",
+    "category": "ENCYCLOPEDIA",
+    "question": "蜗牛在爬行经过的地面上常常会留下一条发亮的痕迹，那是什么？",
+    "options": [
+      "A. 黏液（减少摩擦保护腹足）",
+      "B. 汗水",
+      "C. 尿液",
+      "D. 口水"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0347",
+    "category": "ENCYCLOPEDIA",
+    "question": "蚕宝宝吃桑叶长大后吐丝结成茧，最后破茧而出变成什么？",
+    "options": [
+      "A. 蝴蝶",
+      "B. 蚕蛾",
+      "C. 蜻蜓",
+      "D. 蜜蜂"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0348",
+    "category": "ENCYCLOPEDIA",
+    "question": "蚊子吸血时，真正吸人血的是雄蚊子还是雌蚊子？",
+    "options": [
+      "A. 雄蚊子",
+      "B. 雌蚊子（为了繁殖卵成熟）",
+      "C. 两者都吸",
+      "D. 老年蚊子"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0349",
+    "category": "ENCYCLOPEDIA",
+    "question": "蚂蚁在寻找食物回巢的路上，通常靠什么相互传递信息？",
+    "options": [
+      "A. 声音大喊",
+      "B. 挥舞翅膀",
+      "C. 触角和气味信息素",
+      "D. 眼神交流"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0350",
+    "category": "ENCYCLOPEDIA",
+    "question": "秋天树叶变黄飘落，主要是因为天气变冷，树木为了什么？",
+    "options": [
+      "A. 减少水分和养分消耗安度寒冬",
+      "B. 树叶太重了",
+      "C. 大风吹落",
+      "D. 树木死去了"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0351",
+    "category": "ENCYCLOPEDIA",
+    "question": "为什么冰块浮在水面上而不是沉入水底？",
+    "options": [
+      "A. 冰的密度比水小",
+      "B. 冰比水重",
+      "C. 冰里面有气泡",
+      "D. 水面有浮力保护"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0352",
+    "category": "ENCYCLOPEDIA",
+    "question": "纯净的水在标准大气压下的沸点是多少摄氏度？",
+    "options": [
+      "A. 80℃",
+      "B. 90℃",
+      "C. 100℃",
+      "D. 120℃"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0353",
+    "category": "ENCYCLOPEDIA",
+    "question": "纯净的水在标准大气压下的冰点（凝固点）是多少摄氏度？",
+    "options": [
+      "A. 0℃",
+      "B. 4℃",
+      "C. -4℃",
+      "D. 10℃"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0354",
+    "category": "ENCYCLOPEDIA",
+    "question": "保温瓶（暖水瓶）之所以能保温，是因为它的内胆采用了什么结构？",
+    "options": [
+      "A. 纯实心铁层",
+      "B. 双层镀银真空夹层",
+      "C. 塑料海绵",
+      "D. 木塞加厚"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0355",
+    "category": "ENCYCLOPEDIA",
+    "question": "夏天吃雪糕时，雪糕周围冒出的“白气”是什么？",
+    "options": [
+      "A. 冰升华的水蒸气",
+      "B. 空气中的水蒸气遇冷液化成的小水滴",
+      "C. 二氧化碳",
+      "D. 烟雾"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0356",
+    "category": "ENCYCLOPEDIA",
+    "question": "冬天室内玻璃窗上结出的美丽冰花，通常出现在玻璃的哪一面？",
+    "options": [
+      "A. 室内一面（水汽遇冷凝华）",
+      "B. 室外一面",
+      "C. 玻璃夹层里",
+      "D. 左右两面都有"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0357",
+    "category": "ENCYCLOPEDIA",
+    "question": "给汽车轮胎充气，如果夏天充得过满容易发生什么危险？",
+    "options": [
+      "A. 爆胎（气体受热膨胀）",
+      "B. 轮胎漏气",
+      "C. 跑得更慢",
+      "D. 轮胎变重"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0358",
+    "category": "ENCYCLOPEDIA",
+    "question": "热气球能够升上天空，是利用了什么科学原理？",
+    "options": [
+      "A. 热空气比冷空气轻（密度小受浮力上升）",
+      "B. 靠螺旋桨推进",
+      "C. 靠风吹送",
+      "D. 磁悬浮原理"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0359",
+    "category": "ENCYCLOPEDIA",
+    "question": "飞机之所以能在空中飞行，主要依靠机翼上下表面气流产生的什么？",
+    "options": [
+      "A. 升力",
+      "B. 摩擦力",
+      "C. 弹力",
+      "D. 惯性力"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0360",
+    "category": "ENCYCLOPEDIA",
+    "question": "海市蜃楼是一种壮丽的自然景观，它产生的光学原理是？",
+    "options": [
+      "A. 光的折射和全反射",
+      "B. 光的直线传播",
+      "C. 镜面反射",
+      "D. 影子投影"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0361",
+    "category": "ENCYCLOPEDIA",
+    "question": "我们能够看到镜子里的自己，是因为光的什么现象？",
+    "options": [
+      "A. 反射",
+      "B. 折射",
+      "C. 色散",
+      "D. 吸收"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0362",
+    "category": "ENCYCLOPEDIA",
+    "question": "筷子斜插入盛水的透明玻璃杯中，看起来好像“折断”了，这是因为？",
+    "options": [
+      "A. 光的反射",
+      "B. 光的折射",
+      "C. 筷子变软了",
+      "D. 水有放大镜作用"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0363",
+    "category": "ENCYCLOPEDIA",
+    "question": "近视眼镜的镜片通常是什么透镜？",
+    "options": [
+      "A. 凸透镜",
+      "B. 凹透镜",
+      "C. 平面镜",
+      "D. 双面镜"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0364",
+    "category": "ENCYCLOPEDIA",
+    "question": "放大镜实际上是一块什么透镜？",
+    "options": [
+      "A. 凹透镜",
+      "B. 凸透镜",
+      "C. 平面镜",
+      "D. 凹面镜"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0365",
+    "category": "ENCYCLOPEDIA",
+    "question": "小孔成像呈现出来的像是正立的还是倒立的？",
+    "options": [
+      "A. 倒立的实像",
+      "B. 正立的虚像",
+      "C. 侧立的",
+      "D. 看不清楚"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0366",
+    "category": "ENCYCLOPEDIA",
+    "question": "白色光通过三棱镜后会分解成七色光带，这种现象叫什么？",
+    "options": [
+      "A. 光的色散",
+      "B. 光的衍射",
+      "C. 光的干涉",
+      "D. 光的吸收"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0367",
+    "category": "ENCYCLOPEDIA",
+    "question": "太阳光由赤、橙、黄、绿、青、蓝、紫七种色光混合而成，它属于？",
+    "options": [
+      "A. 单色光",
+      "B. 复色光",
+      "C. 不可见光",
+      "D. 激光"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0368",
+    "category": "ENCYCLOPEDIA",
+    "question": "人体的骨骼一共有多少块左右？",
+    "options": [
+      "A. 106块",
+      "B. 206块",
+      "C. 306块",
+      "D. 506块"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0369",
+    "category": "ENCYCLOPEDIA",
+    "question": "人体最坚硬的组织位于哪里？",
+    "options": [
+      "A. 头盖骨",
+      "B. 牙齿表面的牙釉质",
+      "C. 大腿骨",
+      "D. 指甲"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0370",
+    "category": "ENCYCLOPEDIA",
+    "question": "人类一生中会有两副牙齿，第一副叫乳牙，换牙后长出的叫什么？",
+    "options": [
+      "A. 恒牙",
+      "B. 智齿",
+      "C. 假牙",
+      "D. 尖牙"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0371",
+    "category": "ENCYCLOPEDIA",
+    "question": "人体内负责泵血输送氧气和营养的核心器官是？",
+    "options": [
+      "A. 胃",
+      "B. 心脏",
+      "C. 肝脏",
+      "D. 肺部"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0372",
+    "category": "ENCYCLOPEDIA",
+    "question": "人体负责呼吸、交换氧气和二氧化碳的主要器官是？",
+    "options": [
+      "A. 肺",
+      "B. 气管",
+      "C. 心脏",
+      "D. 喉咙"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0373",
+    "category": "ENCYCLOPEDIA",
+    "question": "人体最大的消化腺器官是什么？",
+    "options": [
+      "A. 胃",
+      "B. 肝脏",
+      "C. 胰腺",
+      "D. 小肠"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0374",
+    "category": "ENCYCLOPEDIA",
+    "question": "主要负责消化吸收食物中绝大部分营养物质的器官是？",
+    "options": [
+      "A. 食道",
+      "B. 胃",
+      "C. 小肠",
+      "D. 大肠"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0375",
+    "category": "ENCYCLOPEDIA",
+    "question": "人身上的血液呈红色，主要是因为红细胞中含有富含铁的什么？",
+    "options": [
+      "A. 血红蛋白",
+      "B. 白细胞",
+      "C. 血小板",
+      "D. 淋巴液"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0376",
+    "category": "ENCYCLOPEDIA",
+    "question": "当手指不小心划破流血时，血液中哪种成分能促进凝血止血？",
+    "options": [
+      "A. 红细胞",
+      "B. 白细胞",
+      "C. 血小板",
+      "D. 血浆"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0377",
+    "category": "ENCYCLOPEDIA",
+    "question": "体内负责消灭外来入侵病菌、保护身体免疫健康的“卫士”细胞是？",
+    "options": [
+      "A. 红细胞",
+      "B. 白细胞",
+      "C. 血小板",
+      "D. 脂肪细胞"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0378",
+    "category": "ENCYCLOPEDIA",
+    "question": "打疫苗（预防针）的主要目的是什么？",
+    "options": [
+      "A. 刺激身体免疫系统产生抗体预防疾病",
+      "B. 治疗感冒发烧",
+      "C. 补充维生素",
+      "D. 止痛"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0379",
+    "category": "ENCYCLOPEDIA",
+    "question": "长时间近距离看手机、电脑屏幕容易导致什么视力问题？",
+    "options": [
+      "A. 近视眼",
+      "B. 远视眼",
+      "C. 白内障",
+      "D. 青光眼"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0380",
+    "category": "ENCYCLOPEDIA",
+    "question": "充足的睡眠对青少年非常重要，因为深度睡眠时体内会分泌大量的？",
+    "options": [
+      "A. 生长激素",
+      "B. 肾上腺素",
+      "C. 胰岛素",
+      "D. 甲状腺素"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0381",
+    "category": "ENCYCLOPEDIA",
+    "question": "吃太多高糖食物和喝太多碳酸饮料，牙齿最容易发生什么病变？",
+    "options": [
+      "A. 龋齿（蛀牙）",
+      "B. 牙齿变白",
+      "C. 牙龈出血",
+      "D. 牙齿变长"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0382",
+    "category": "ENCYCLOPEDIA",
+    "question": "饭前便后要洗手，正确的洗手时长通常建议至少揉搓多少秒？",
+    "options": [
+      "A. 5秒",
+      "B. 20秒以上（七步洗手法）",
+      "C. 2分钟",
+      "D. 10分钟"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0383",
+    "category": "ENCYCLOPEDIA",
+    "question": "发霉变质的花生、坚果绝对不能吃，因为里面可能含有剧毒强致癌物？",
+    "options": [
+      "A. 黄曲霉毒素",
+      "B. 细菌素",
+      "C. 青霉素",
+      "D. 酵母菌"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0384",
+    "category": "ENCYCLOPEDIA",
+    "question": "生豆角、四季豆在烹饪时一定要彻底煮熟煮透，这是为了？",
+    "options": [
+      "A. 破坏其自带的皂苷和植物凝集素等毒素",
+      "B. 让颜色更好看",
+      "C. 容易嚼烂",
+      "D. 增加甜味"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0385",
+    "category": "ENCYCLOPEDIA",
+    "question": "野外采摘的颜色极其鲜艳的野生蘑菇，应该采取什么态度？",
+    "options": [
+      "A. 绝对不可食用（很多有致命剧毒）",
+      "B. 煮熟了随便吃",
+      "C. 闻一闻香不香",
+      "D. 晒干了吃"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0386",
+    "category": "ENCYCLOPEDIA",
+    "question": "吃完海鲜后，不宜立刻大量食用富含鞣酸的什么水果？",
+    "options": [
+      "A. 柿子",
+      "B. 苹果",
+      "C. 香蕉",
+      "D. 西瓜"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0387",
+    "category": "ENCYCLOPEDIA",
+    "question": "蜂蜜结晶（变成乳白色固体）通常属于什么现象？",
+    "options": [
+      "A. 正常的物理现象（葡萄糖析出结晶）",
+      "B. 蜂蜜发霉变质",
+      "C. 掺了白糖的假蜜",
+      "D. 变质不能吃"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0388",
+    "category": "ENCYCLOPEDIA",
+    "question": "家庭燃气（天然气、煤气）泄漏时，闻到刺鼻异味，第一步正确做法是？",
+    "options": [
+      "A. 迅速打开门窗通风，严禁开关电器或使用明火",
+      "B. 赶紧开灯查看哪里漏气",
+      "C. 立即打电话呼叫朋友",
+      "D. 点打火机找漏气点"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0389",
+    "category": "ENCYCLOPEDIA",
+    "question": "遭遇地震发生强烈摇晃时，如果处于室内，最佳应急避震选择是？",
+    "options": [
+      "A. 迅速躲在坚固家具下或卫生间等开间小处抱头",
+      "B. 立即乘电梯下楼",
+      "C. 站在窗户边向外看",
+      "D. 慌张跳楼逃生"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0390",
+    "category": "ENCYCLOPEDIA",
+    "question": "遭遇洪水围困时，应该向什么方向转移等待救援？",
+    "options": [
+      "A. 地势高处（如楼顶、坚固高坡）",
+      "B. 地下室",
+      "C. 桥洞下",
+      "D. 顺水游泳"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0391",
+    "category": "ENCYCLOPEDIA",
+    "question": "在野外森林中迷路，如果没有指南针，树木哪一面的枝叶通常更茂盛？",
+    "options": [
+      "A. 朝向南面（阳光充足的一侧）",
+      "B. 朝向北面",
+      "C. 朝向东面",
+      "D. 朝向西面"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0392",
+    "category": "ENCYCLOPEDIA",
+    "question": "冬天堆雪人时，雪花的基本形状通常具有几角对称的结构？",
+    "options": [
+      "A. 四角",
+      "B. 五角",
+      "C. 六角形",
+      "D. 八角"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0393",
+    "category": "ENCYCLOPEDIA",
+    "question": "月食现象的产生是因为什么天体挡住了照向月球的太阳光？",
+    "options": [
+      "A. 地球",
+      "B. 火星",
+      "C. 金星",
+      "D. 水星"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0394",
+    "category": "ENCYCLOPEDIA",
+    "question": "日食现象的产生是因为什么天体运行到了太阳和地球之间？",
+    "options": [
+      "A. 月球",
+      "B. 水星",
+      "C. 火星",
+      "D. 木星"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0395",
+    "category": "ENCYCLOPEDIA",
+    "question": "潮起潮落主要是由月球和太阳对地球海水的什么力引起的？",
+    "options": [
+      "A. 万有引力（潮汐引力）",
+      "B. 浮力",
+      "C. 摩擦力",
+      "D. 离心力"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0396",
+    "category": "ENCYCLOPEDIA",
+    "question": "地球表面被海洋覆盖的面积大约占地球总面积的百分之多少？",
+    "options": [
+      "A. 约 50%",
+      "B. 约 71%",
+      "C. 约 90%",
+      "D. 约 30%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0397",
+    "category": "ENCYCLOPEDIA",
+    "question": "大气层中吸收太阳绝大部分紫外线、保护地球生命的保护伞是？",
+    "options": [
+      "A. 臭氧层",
+      "B. 暖层",
+      "C. 对流层",
+      "D. 散逸层"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0398",
+    "category": "ENCYCLOPEDIA",
+    "question": "空气中含量最多的气体是哪一种？",
+    "options": [
+      "A. 氧气",
+      "B. 氮气（约占78%）",
+      "C. 二氧化碳",
+      "D. 氦气"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0399",
+    "category": "ENCYCLOPEDIA",
+    "question": "在太空失重环境下，宇航员睡觉时必须把自己固定在睡袋里，是为了？",
+    "options": [
+      "A. 防止睡梦中飘浮撞伤",
+      "B. 保暖",
+      "C. 防蚊虫",
+      "D. 习惯动作"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0400",
+    "category": "ENCYCLOPEDIA",
+    "question": "乘坐高铁列车或者飞机起飞降落时耳朵感到发闷，可以通过什么动作缓解？",
+    "options": [
+      "A. 吞咽口水或做咀嚼动作",
+      "B. 紧闭双眼",
+      "C. 屏住呼吸",
+      "D. 大声尖叫"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0401",
+    "category": "GEOGRAPHY",
+    "question": "中国的首都是哪座著名的历史文化名城？",
+    "options": [
+      "A. 上海",
+      "B. 北京",
+      "C. 广州",
+      "D. 深圳"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0402",
+    "category": "GEOGRAPHY",
+    "question": "中国的第一大岛是哪个美丽的岛屿？",
+    "options": [
+      "A. 海南岛",
+      "B. 台湾岛",
+      "C. 崇明岛",
+      "D. 舟山岛"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0403",
+    "category": "GEOGRAPHY",
+    "question": "被称为中华民族“母亲河”之一、流经九曲十八弯注入渤海的是哪条河？",
+    "options": [
+      "A. 长江",
+      "B. 黄河",
+      "C. 珠江",
+      "D. 黑龙江"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0404",
+    "category": "GEOGRAPHY",
+    "question": "中国的第一大河、全长约 6300 公里、注入东海的是哪条江？",
+    "options": [
+      "A. 黄河",
+      "B. 长江",
+      "C. 澜沧江",
+      "D. 淮河"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0405",
+    "category": "GEOGRAPHY",
+    "question": "中国五岳之首是位于山东省的哪座名山？",
+    "options": [
+      "A. 东岳泰山",
+      "B. 西岳华山",
+      "C. 南岳衡山",
+      "D. 北岳恒山"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0406",
+    "category": "GEOGRAPHY",
+    "question": "世界上面积最大的大洋是哪个大洋？",
+    "options": [
+      "A. 大西洋",
+      "B. 太平洋",
+      "C. 印度洋",
+      "D. 北冰洋"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0407",
+    "category": "GEOGRAPHY",
+    "question": "世界上最小的大洋是哪一个？",
+    "options": [
+      "A. 印度洋",
+      "B. 北冰洋",
+      "C. 大西洋",
+      "D. 太平洋"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0408",
+    "category": "GEOGRAPHY",
+    "question": "世界上海拔最高的山峰是哪一座？",
+    "options": [
+      "A. 珠穆朗玛峰",
+      "B. 乔戈里峰",
+      "C. 富士山",
+      "D. 乞力马扎罗山"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0409",
+    "category": "GEOGRAPHY",
+    "question": "地球自转一周的时间大约是多久？",
+    "options": [
+      "A. 1小时",
+      "B. 24小时（约一天）",
+      "C. 1个月",
+      "D. 1年"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0410",
+    "category": "GEOGRAPHY",
+    "question": "地球围绕太阳公转一周产生了什么自然规律？",
+    "options": [
+      "A. 昼夜交替",
+      "B. 四季更替（一年）",
+      "C. 潮起潮落",
+      "D. 地震海啸"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0411",
+    "category": "GEOGRAPHY",
+    "question": "地球上淡水资源储量最多的地方是？",
+    "options": [
+      "A. 江河水",
+      "B. 淡水湖泊",
+      "C. 南极和北极的冰川",
+      "D. 地下水"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0412",
+    "category": "GEOGRAPHY",
+    "question": "太阳系八大行星中，体积最大的是哪一颗行星？",
+    "options": [
+      "A. 地球",
+      "B. 火星",
+      "C. 木星",
+      "D. 土星"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0413",
+    "category": "GEOGRAPHY",
+    "question": "太阳系八大行星中，距离太阳最近的是哪一颗行星？",
+    "options": [
+      "A. 水星",
+      "B. 金星",
+      "C. 地球",
+      "D. 火星"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0414",
+    "category": "GEOGRAPHY",
+    "question": "太阳系八大行星中，拥有美丽光环且体积第二大的是哪一颗？",
+    "options": [
+      "A. 天王星",
+      "B. 海王星",
+      "C. 土星",
+      "D. 木星"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0415",
+    "category": "GEOGRAPHY",
+    "question": "中国陆地领土面积大约是多少平方公里？",
+    "options": [
+      "A. 约 960 万平方公里",
+      "B. 约 1200 万平方公里",
+      "C. 约 800 万平方公里",
+      "D. 约 650 万平方公里"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0416",
+    "category": "GEOGRAPHY",
+    "question": "中国面积最大的沙漠是位于新疆的哪一个沙漠？",
+    "options": [
+      "A. 腾格里沙漠",
+      "B. 塔克拉玛干沙漠",
+      "C. 巴丹吉林沙漠",
+      "D. 库布齐沙漠"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0417",
+    "category": "GEOGRAPHY",
+    "question": "呆萌可爱的企鹅主要生活在地球的哪一个极地冰原？",
+    "options": [
+      "A. 北极",
+      "B. 南极",
+      "C. 赤道地区",
+      "D. 欧洲"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0418",
+    "category": "GEOGRAPHY",
+    "question": "威猛高大的北极熊主要生活在地球的哪一个区域？",
+    "options": [
+      "A. 北极地区",
+      "B. 南极地区",
+      "C. 非洲大陆",
+      "D. 澳大利亚"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0419",
+    "category": "GEOGRAPHY",
+    "question": "夜晚皎洁的月亮本身会发光吗？",
+    "options": [
+      "A. 会自己发光",
+      "B. 不会，反射的是太阳光",
+      "C. 有时发光有时不发光",
+      "D. 靠星星照亮"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0420",
+    "category": "GEOGRAPHY",
+    "question": "世界上人口最多的大洲是哪个大洲？",
+    "options": [
+      "A. 欧洲",
+      "B. 亚洲",
+      "C. 非洲",
+      "D. 北美洲"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0421",
+    "category": "GEOGRAPHY",
+    "question": "世界上面积最大的大洲是哪个大洲？",
+    "options": [
+      "A. 亚洲",
+      "B. 非洲",
+      "C. 欧洲",
+      "D. 南极洲"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0422",
+    "category": "GEOGRAPHY",
+    "question": "世界上最小的大洲是哪一个？",
+    "options": [
+      "A. 大洋洲",
+      "B. 欧洲",
+      "C. 南极洲",
+      "D. 南美洲"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0423",
+    "category": "GEOGRAPHY",
+    "question": "世界上最长的河流是位于非洲的哪条河？",
+    "options": [
+      "A. 尼罗河",
+      "B. 亚马孙河",
+      "C. 长江",
+      "D. 密西西比河"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0424",
+    "category": "GEOGRAPHY",
+    "question": "世界上流域面积最广、水量最大的河流是哪条河？",
+    "options": [
+      "A. 尼罗河",
+      "B. 亚马孙河",
+      "C. 长江",
+      "D. 刚果河"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0425",
+    "category": "GEOGRAPHY",
+    "question": "世界上最大面积的热带雨林位于哪个盆地？",
+    "options": [
+      "A. 刚果盆地",
+      "B. 亚马孙平原",
+      "C. 刚果河",
+      "D. 西伯利亚"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0426",
+    "category": "GEOGRAPHY",
+    "question": "世界上最大面积的热带沙漠是位于非洲北部的什么沙漠？",
+    "options": [
+      "A. 撒哈拉沙漠",
+      "B. 戈壁沙漠",
+      "C. 卡拉哈里沙漠",
+      "D. 阿塔卡马沙漠"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0427",
+    "category": "GEOGRAPHY",
+    "question": "中国最大的内陆咸水湖是位于青藏高原的哪个湖泊？",
+    "options": [
+      "A. 鄱阳湖",
+      "B. 洞庭湖",
+      "C. 青海湖",
+      "D. 太湖"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0428",
+    "category": "GEOGRAPHY",
+    "question": "中国最大的淡水湖是位于江西省的哪个湖泊？",
+    "options": [
+      "A. 鄱阳湖",
+      "B. 洞庭湖",
+      "C. 巢湖",
+      "D. 洪泽湖"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0429",
+    "category": "GEOGRAPHY",
+    "question": "中国面积最大的省级行政区是哪一个？",
+    "options": [
+      "A. 西藏自治区",
+      "B. 新疆维吾尔自治区",
+      "C. 内蒙古自治区",
+      "D. 青海省"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0430",
+    "category": "GEOGRAPHY",
+    "question": "中国跨经度最广的省级行政区是哪一个？",
+    "options": [
+      "A. 新疆",
+      "B. 内蒙古自治区",
+      "C. 黑龙江",
+      "D. 甘肃"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0431",
+    "category": "GEOGRAPHY",
+    "question": "被称为“世界屋脊”的高原是哪个高原？",
+    "options": [
+      "A. 青藏高原",
+      "B. 云贵高原",
+      "C. 黄土高原",
+      "D. 内蒙古高原"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0432",
+    "category": "GEOGRAPHY",
+    "question": "中国千沟万壑、黄土深厚的著名高原是？",
+    "options": [
+      "A. 云贵高原",
+      "B. 黄土高原",
+      "C. 帕米尔高原",
+      "D. 巴西高原"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0433",
+    "category": "GEOGRAPHY",
+    "question": "喀斯特地貌发育最典型、多奇峰溶洞的中国高原是？",
+    "options": [
+      "A. 青藏高原",
+      "B. 内蒙古高原",
+      "C. 云贵高原",
+      "D. 黄土高原"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0434",
+    "category": "GEOGRAPHY",
+    "question": "我国四大盆地中，被称为“天府之国”的紫色盆地是？",
+    "options": [
+      "A. 塔里木盆地",
+      "B. 四川盆地",
+      "C. 准噶尔盆地",
+      "D. 柴达木盆地"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0435",
+    "category": "GEOGRAPHY",
+    "question": "我国四大盆地中，海拔最高、有“聚宝盆”之称的是？",
+    "options": [
+      "A. 柴达木盆地",
+      "B. 塔里木盆地",
+      "C. 准噶尔盆地",
+      "D. 四川盆地"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0436",
+    "category": "GEOGRAPHY",
+    "question": "我国面积最大的平原是哪一个平原？",
+    "options": [
+      "A. 华北平原",
+      "B. 东北平原",
+      "C. 长江中下游平原",
+      "D. 成都平原"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0437",
+    "category": "GEOGRAPHY",
+    "question": "素有“鱼米之乡”美称的中国平原是？",
+    "options": [
+      "A. 长江中下游平原",
+      "B. 东北平原",
+      "C. 华北平原",
+      "D. 关中平原"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0438",
+    "category": "GEOGRAPHY",
+    "question": "中国的四大海域自北向南依次是？",
+    "options": [
+      "A. 渤海、黄海、东海、南海",
+      "B. 黄海、渤海、东海、南海",
+      "C. 东海、南海、黄海、渤海",
+      "D. 渤海、东海、黄海、南海"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0439",
+    "category": "GEOGRAPHY",
+    "question": "中国最大的群岛是位于浙江省的哪个群岛？",
+    "options": [
+      "A. 舟山群岛",
+      "B. 西沙群岛",
+      "C. 南沙群岛",
+      "D. 钓鱼岛及其附属岛屿"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0440",
+    "category": "GEOGRAPHY",
+    "question": "中国最南端的三沙市管辖的海域属于我国的哪片海？",
+    "options": [
+      "A. 渤海",
+      "B. 黄海",
+      "C. 东海",
+      "D. 南海"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q_0441",
+    "category": "GEOGRAPHY",
+    "question": "秦岭—淮河一线是我国南方与北方的重要地理分界线，它大致与哪条等温线重合？",
+    "options": [
+      "A. 1月 0℃ 等温线",
+      "B. 1月 10℃ 等温线",
+      "C. 7月 20℃ 等温线",
+      "D. 年均温 15℃ 线"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0442",
+    "category": "GEOGRAPHY",
+    "question": "我国年降水量分布的基本规律是？",
+    "options": [
+      "A. 从东南沿海向西北内陆递减",
+      "B. 从西北向东南递减",
+      "C. 南北一样多",
+      "D. 东西一样多"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0443",
+    "category": "GEOGRAPHY",
+    "question": "太阳每天从哪一个方向升起、哪一个方向落下？",
+    "options": [
+      "A. 西升东落",
+      "B. 东升西落",
+      "C. 南升北落",
+      "D. 北升南落"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0444",
+    "category": "GEOGRAPHY",
+    "question": "地球仪上连接南北两极并垂直于纬线的半圆弧线叫做？",
+    "options": [
+      "A. 经线（子午线）",
+      "B. 纬线",
+      "C. 赤道",
+      "D. 地轴"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0445",
+    "category": "GEOGRAPHY",
+    "question": "地球上最长的纬线是哪一条？",
+    "options": [
+      "A. 北回归线",
+      "B. 南回归线",
+      "C. 赤道（0度纬线）",
+      "D. 北极圈"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "q_0446",
+    "category": "GEOGRAPHY",
+    "question": "将地球平分为北半球和南半球的界线是？",
+    "options": [
+      "A. 本初子午线",
+      "B. 赤道",
+      "C. 回归线",
+      "D. 极圈"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0447",
+    "category": "GEOGRAPHY",
+    "question": "将地球平分为东半球和西半球的主要经线圈是？",
+    "options": [
+      "A. 20°W 和 160°E",
+      "B. 0° 和 180°",
+      "C. 90°E 和 90°W",
+      "D. 任意经线圈"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0448",
+    "category": "GEOGRAPHY",
+    "question": "一年当中白天时间最长、夜晚时间最短的节气是？",
+    "options": [
+      "A. 春分",
+      "B. 夏至",
+      "C. 秋分",
+      "D. 冬至"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0449",
+    "category": "GEOGRAPHY",
+    "question": "一年当中白天时间最短、夜晚时间最长的节气是？",
+    "options": [
+      "A. 春分",
+      "B. 夏至",
+      "C. 秋分",
+      "D. 冬至"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "q_0450",
+    "category": "GEOGRAPHY",
+    "question": "春分和秋分这两天，太阳直射在地球的哪里？",
+    "options": [
+      "A. 北回归线",
+      "B. 赤道（全球昼夜平分）",
+      "C. 南回归线",
+      "D. 北极圈"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0451",
+    "category": "GEOGRAPHY",
+    "question": "极光（绚丽多彩的发光现象）通常出现在地球的什么区域？",
+    "options": [
+      "A. 赤道附近",
+      "B. 高纬度南北两极极地附近",
+      "C. 热带雨林",
+      "D. 撒哈拉沙漠"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0452",
+    "category": "GEOGRAPHY",
+    "question": "地球内部结构从外到内依次由哪三部分构成？",
+    "options": [
+      "A. 地壳、地幔、地核",
+      "B. 地幔、地壳、地核",
+      "C. 地核、地幔、地壳",
+      "D. 岩石、泥土、铁矿"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0453",
+    "category": "GEOGRAPHY",
+    "question": "造成火山喷发和地震的主要动力来自地球内部的什么运动？",
+    "options": [
+      "A. 板块构造运动",
+      "B. 地表风化",
+      "C. 海浪拍打",
+      "D. 气候变暖"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0454",
+    "category": "GEOGRAPHY",
+    "question": "世界上最大的群岛国家（千岛之国）是哪一个？",
+    "options": [
+      "A. 日本",
+      "B. 印度尼西亚",
+      "C. 菲律宾",
+      "D. 英国"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0455",
+    "category": "GEOGRAPHY",
+    "question": "被称为“骑在羊背上的国家”和“坐在矿车上的国家”是哪一个？",
+    "options": [
+      "A. 澳大利亚",
+      "B. 新西兰",
+      "C. 巴西",
+      "D. 蒙古"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0456",
+    "category": "GEOGRAPHY",
+    "question": "拥有世界上最大热带草原和热情桑巴舞的南美洲面积最大国是？",
+    "options": [
+      "A. 阿根廷",
+      "B. 巴西",
+      "C. 智利",
+      "D. 秘鲁"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0457",
+    "category": "GEOGRAPHY",
+    "question": "世界上国土狭长像一条丝带、被称为“丝带国”的南美国家是？",
+    "options": [
+      "A. 智利",
+      "B. 巴西",
+      "C. 秘鲁",
+      "D. 玻利维亚"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0458",
+    "category": "GEOGRAPHY",
+    "question": "世界上国土面积最大的国家是哪一个？",
+    "options": [
+      "A. 中国",
+      "B. 俄罗斯",
+      "C. 加拿大",
+      "D. 美国"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "q_0459",
+    "category": "GEOGRAPHY",
+    "question": "金字塔和狮身人面像是哪个文明古国的标志性建筑？",
+    "options": [
+      "A. 古埃及",
+      "B. 古巴比伦",
+      "C. 古印度",
+      "D. 古希腊"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0460",
+    "category": "GEOGRAPHY",
+    "question": "著名的埃菲尔铁塔位于欧洲哪座著名浪漫之都？",
+    "options": [
+      "A. 巴黎",
+      "B. 伦敦",
+      "C. 罗马",
+      "D. 柏林"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0461",
+    "category": "GEOGRAPHY",
+    "question": "闻名世界的比萨斜塔位于哪个地中海沿岸国家？",
+    "options": [
+      "A. 意大利",
+      "B. 法国",
+      "C. 西班牙",
+      "D. 希腊"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0462",
+    "category": "GEOGRAPHY",
+    "question": "著名的水上城市“威尼斯”位于欧洲哪个国家？",
+    "options": [
+      "A. 意大利",
+      "B. 英国",
+      "C. 荷兰",
+      "D. 瑞士"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0463",
+    "category": "GEOGRAPHY",
+    "question": "风车、郁金香和木鞋是欧洲哪个国家的鲜明特色？",
+    "options": [
+      "A. 荷兰",
+      "B. 德国",
+      "C. 丹麦",
+      "D. 比利时"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0464",
+    "category": "GEOGRAPHY",
+    "question": "泰姬陵是哪座亚洲古老国家的著名白色大理石古迹？",
+    "options": [
+      "A. 印度",
+      "B. 泰国",
+      "C. 日本",
+      "D. 越南"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0465",
+    "category": "GEOGRAPHY",
+    "question": "富士山是哪个岛国最高峰和著名的活火山？",
+    "options": [
+      "A. 日本",
+      "B. 韩国",
+      "C. 印尼",
+      "D. 冰岛"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0466",
+    "category": "GEOGRAPHY",
+    "question": "我国被誉为“日光城”的西藏首府是哪座城市？",
+    "options": [
+      "A. 拉萨",
+      "B. 日喀则",
+      "C. 林芝",
+      "D. 昌都"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0467",
+    "category": "GEOGRAPHY",
+    "question": "我国著名的“冰城”、每年举办盛大冰雪大世界的是哪座省会？",
+    "options": [
+      "A. 哈尔滨",
+      "B. 长春",
+      "C. 沈阳",
+      "D. 呼和浩特"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0468",
+    "category": "GEOGRAPHY",
+    "question": "被称为“春城”、四季如春的云南省省会是哪座城市？",
+    "options": [
+      "A. 昆明",
+      "B. 大理",
+      "C. 丽江",
+      "D. 西双版纳"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0469",
+    "category": "GEOGRAPHY",
+    "question": "素有“山城”和“火锅之都”之称的我国直辖市是？",
+    "options": [
+      "A. 重庆",
+      "B. 成都",
+      "C. 武汉",
+      "D. 长沙"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0470",
+    "category": "GEOGRAPHY",
+    "question": "万里长城东起辽宁虎山或河北山海关，西到甘肃哪座雄关？",
+    "options": [
+      "A. 嘉峪关",
+      "B. 玉门关",
+      "C. 阳关",
+      "D. 雁门关"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0471",
+    "category": "GEOGRAPHY",
+    "question": "故宫（紫禁城）是我国哪个朝代和哪个朝代的皇家宫殿？",
+    "options": [
+      "A. 明朝与清朝",
+      "B. 唐朝与宋朝",
+      "C. 元朝与明朝",
+      "D. 汉朝与唐朝"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0472",
+    "category": "GEOGRAPHY",
+    "question": "世界第八大奇迹、出土于陕西临潼的是什么著名文物军阵？",
+    "options": [
+      "A. 秦始皇陵兵马俑",
+      "B. 汉代陶俑",
+      "C. 三星堆青铜人",
+      "D. 莫高窟塑像"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0473",
+    "category": "GEOGRAPHY",
+    "question": "我国著名的石窟艺术宝库“莫高窟”位于甘肃省的哪座历史名城？",
+    "options": [
+      "A. 敦煌",
+      "B. 兰州",
+      "C. 酒泉",
+      "D. 张掖"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0474",
+    "category": "GEOGRAPHY",
+    "question": "四川省的九寨沟以什么神奇瑰丽的自然景观闻名于世？",
+    "options": [
+      "A. 彩色湖泊、叠瀑与翠海",
+      "B. 险峻石峰",
+      "C. 茫茫沙漠",
+      "D. 火山温泉"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0475",
+    "category": "GEOGRAPHY",
+    "question": "广西桂林山水以什么奇特的地貌形态著称于天下？",
+    "options": [
+      "A. 喀斯特石灰岩岩溶地貌",
+      "B. 丹霞地貌",
+      "C. 雅丹风蚀地貌",
+      "D. 黄土地貌"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0476",
+    "category": "GEOGRAPHY",
+    "question": "被称为“红色砂砾岩丹霞地貌”命名地的是广东省的哪座名山？",
+    "options": [
+      "A. 丹霞山",
+      "B. 罗浮山",
+      "C. 白云山",
+      "D. 鼎湖山"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0477",
+    "category": "GEOGRAPHY",
+    "question": "我国面积最大的咸水湖青海湖中，每年春夏有数以十万计候鸟繁衍的地方是？",
+    "options": [
+      "A. 鸟岛",
+      "B. 海心山",
+      "C. 蛇岛",
+      "D. 鹿岛"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0478",
+    "category": "GEOGRAPHY",
+    "question": "亚洲流经国家最多的国际性河流（在我国境内称澜沧江）是？",
+    "options": [
+      "A. 湄公河",
+      "B. 恒河",
+      "C. 印度河",
+      "D. 底格里斯河"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0479",
+    "category": "GEOGRAPHY",
+    "question": "世界上海峡中最狭长、连接太平洋与印度洋的重要海上咽喉是？",
+    "options": [
+      "A. 马六甲海峡",
+      "B. 直布罗陀海峡",
+      "C. 白令海峡",
+      "D. 麦哲伦海峡"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0480",
+    "category": "GEOGRAPHY",
+    "question": "沟通地中海与红海、连接大西洋与印度洋的著名人工运河是？",
+    "options": [
+      "A. 苏伊士运河",
+      "B. 巴拿马运河",
+      "C. 京杭大运河",
+      "D. 基尔运河"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0481",
+    "category": "GEOGRAPHY",
+    "question": "沟通太平洋与大西洋的著名国际运河是位于美洲的？",
+    "options": [
+      "A. 巴拿马运河",
+      "B. 苏伊士运河",
+      "C. 伏尔加运河",
+      "D. 伊利运河"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0482",
+    "category": "GEOGRAPHY",
+    "question": "世界上最深的淡水湖、蓄水量最大的湖泊是位于俄罗斯的哪个湖？",
+    "options": [
+      "A. 贝加尔湖",
+      "B. 里海",
+      "C. 苏必利尔湖",
+      "D. 维多利亚湖"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0483",
+    "category": "GEOGRAPHY",
+    "question": "世界上最大的内陆咸水湖（常被称作海）是哪一个？",
+    "options": [
+      "A. 里海",
+      "B. 黑海",
+      "C. 地中海",
+      "D. 死海"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0484",
+    "category": "GEOGRAPHY",
+    "question": "世界上湖面海拔最低、含盐量极高人能轻易浮在水面上的是？",
+    "options": [
+      "A. 死海",
+      "B. 红海",
+      "C. 咸海",
+      "D. 珊瑚海"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0485",
+    "category": "GEOGRAPHY",
+    "question": "世界上最长的山脉是位于南美洲西部的哪条山脉？",
+    "options": [
+      "A. 安第斯山脉",
+      "B. 喜马拉雅山脉",
+      "C. 落基山脉",
+      "D. 阿尔卑斯山脉"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0486",
+    "category": "GEOGRAPHY",
+    "question": "地球的大陆板块通常被划分为几大板块？",
+    "options": [
+      "A. 六大板块",
+      "B. 三大板块",
+      "C. 九大板块",
+      "D. 十二大板块"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0487",
+    "category": "GEOGRAPHY",
+    "question": "珠穆朗玛峰目前仍在以微小的速度持续上升，主要是哪两个板块挤压碰撞的结果？",
+    "options": [
+      "A. 亚欧板块与印度洋板块",
+      "B. 太平洋板块与亚欧板块",
+      "C. 非洲板块与美洲板块",
+      "D. 南极洲板块"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0488",
+    "category": "GEOGRAPHY",
+    "question": "世界著名的火山地震带主要分布在环太平洋沿岸和哪个带？",
+    "options": [
+      "A. 地中海—喜马拉雅火山地震带",
+      "B. 大西洋中央海岭",
+      "C. 撒哈拉沙漠",
+      "D. 刚果盆地"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0489",
+    "category": "GEOGRAPHY",
+    "question": "保护地球生态环境，我们常说的“双碳”目标是指？",
+    "options": [
+      "A. 碳达峰与碳中和",
+      "B. 碳减排与碳封存",
+      "C. 绿色碳与蓝色碳",
+      "D. 碳交易与碳税"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0490",
+    "category": "GEOGRAPHY",
+    "question": "全球气候变暖的主要温室气体是哪种气体的大量排放？",
+    "options": [
+      "A. 二氧化碳",
+      "B. 氧气",
+      "C. 氮气",
+      "D. 氢气"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0491",
+    "category": "GEOGRAPHY",
+    "question": "我国设立的三江源国家公园是长江、黄河和哪条大河的源头水塔？",
+    "options": [
+      "A. 澜沧江",
+      "B. 珠江",
+      "C. 黑龙江",
+      "D. 雅鲁藏布江"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0492",
+    "category": "GEOGRAPHY",
+    "question": "素有“天府之南大氧吧”美誉、我国西南著名的天然林区是？",
+    "options": [
+      "A. 西双版纳热带雨林",
+      "B. 大兴安岭林区",
+      "C. 小兴安岭林区",
+      "D. 长白山林区"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0493",
+    "category": "GEOGRAPHY",
+    "question": "我国面积最大的天然林区是东北的哪个林区？",
+    "options": [
+      "A. 大小兴安岭和长白山林区",
+      "B. 横断山区林区",
+      "C. 东南丘陵人工林",
+      "D. 秦岭林区"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0494",
+    "category": "GEOGRAPHY",
+    "question": "中国设立的第一个国家级森林公园是位于湖南省的哪一个？",
+    "options": [
+      "A. 张家界国家森林公园",
+      "B. 黄山风景区",
+      "C. 庐山风景区",
+      "D. 武夷山"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0495",
+    "category": "GEOGRAPHY",
+    "question": "每年世界地球日定于公历的几月几日？",
+    "options": [
+      "A. 4月22日",
+      "B. 3月12日",
+      "C. 6月5日",
+      "D. 10月1日"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0496",
+    "category": "GEOGRAPHY",
+    "question": "每年世界环境日定于公历的几月几日？",
+    "options": [
+      "A. 6月5日",
+      "B. 5月1日",
+      "C. 4月22日",
+      "D. 9月10日"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0497",
+    "category": "GEOGRAPHY",
+    "question": "中国植树节是哪一天？",
+    "options": [
+      "A. 3月12日",
+      "B. 4月5日",
+      "C. 5月4日",
+      "D. 6月1日"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0498",
+    "category": "GEOGRAPHY",
+    "question": "地球上所有的动植物和微生物共同生活居住的生存圈层叫做？",
+    "options": [
+      "A. 生物圈",
+      "B. 大气圈",
+      "C. 岩石圈",
+      "D. 水圈"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0499",
+    "category": "GEOGRAPHY",
+    "question": "我国地势的总特征是？",
+    "options": [
+      "A. 西高东低，呈三级阶梯状分布",
+      "B. 东高西低",
+      "C. 中部高四周低",
+      "D. 南高北低"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "q_0500",
+    "category": "GEOGRAPHY",
+    "question": "太阳系中被称为“红色星球”、人类发射探测器探索最多的类地行星是？",
+    "options": [
+      "A. 火星",
+      "B. 金星",
+      "C. 水星",
+      "D. 木星"
+    ],
+    "correctIndex": 0
+  }
+]
